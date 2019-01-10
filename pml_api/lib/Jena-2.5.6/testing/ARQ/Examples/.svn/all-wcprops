@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples
+END
+ex-localname-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/ex-localname-1.rq
+END
+ex-localname-2.rq
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/ex-localname-2.rq
+END
+ex-localname-3.rq
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/ex-localname-3.rq
+END
+result-label-1.srj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/result-label-1.srj
+END
+ex-localname-4.rq
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/ex-localname-4.rq
+END
+ex-localname-5.rq
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/ex-localname-5.rq
+END
+result-uppercase-1.srj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/result-uppercase-1.srj
+END
+result-uppercase-2.srj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/result-uppercase-2.srj
+END
+result-example-1.srj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/result-example-1.srj
+END
+result-localname-1.srj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/result-localname-1.srj
+END
+result-localname-2.srj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/result-localname-2.srj
+END
+result-localname-3.srj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/result-localname-3.srj
+END
+result-localname-4.srj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/result-localname-4.srj
+END
+result-localname-5.srj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/result-localname-5.srj
+END
+manifest.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/manifest.ttl
+END
+ex-label-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/ex-label-1.rq
+END
+data-1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/data-1.ttl
+END
+data-2.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/data-2.ttl
+END
+ex-uppercase-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/ex-uppercase-1.rq
+END
+ex-uppercase-2.rq
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Examples/ex-uppercase-2.rq
+END

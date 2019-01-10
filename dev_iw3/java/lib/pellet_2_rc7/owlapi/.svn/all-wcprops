@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/owlapi
+END
+owlapi-src.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/owlapi/owlapi-src.jar
+END
+owlapi-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/owlapi/owlapi-bin.jar
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/owlapi/license.txt
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/owlapi/version.txt
+END

@@ -1,0 +1,1709 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ
+END
+test-8-05.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-8-05.rdql
+END
+model9.n3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/model9.n3
+END
+result-2-10.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-2-10.n3
+END
+test-A-01
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-A-01
+END
+test-A-02
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-A-02
+END
+result-7-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-7-02.n3
+END
+result-6-04.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-6-04.n3
+END
+test-B-05.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-05.rdql
+END
+test-B-17.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-17.rdql
+END
+result-B-10.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-10.n3
+END
+test-1-10
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-10
+END
+test-0-02.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-0-02.rdql
+END
+test-2-02.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-02.rdql
+END
+model5.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/model5.rdf
+END
+test-4-02.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-4-02.rdql
+END
+test-6-02.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-6-02.rdql
+END
+test-8-02.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-8-02.rdql
+END
+result-5-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-5-01.n3
+END
+test-B-02.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-02.rdql
+END
+result-4-03.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-4-03.n3
+END
+result-3-05.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-3-05.n3
+END
+result-2-07.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-2-07.n3
+END
+test-B-14.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-14.rdql
+END
+result-1-09.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-1-09.n3
+END
+result-T-08.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-T-08.n3
+END
+run-junit
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/run-junit
+END
+result-B-07.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-07.n3
+END
+test-7-01
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-7-01
+END
+test-7-02
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-7-02
+END
+test-1-07.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-07.rdql
+END
+test-7-03
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-7-03
+END
+test-7-04
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-7-04
+END
+test-3-07.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-3-07.rdql
+END
+result-2-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-2-02.n3
+END
+result-1-04.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-1-04.n3
+END
+test-B-11.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-11.rdql
+END
+result-T-03.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-T-03.n3
+END
+result-S-05.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-S-05.n3
+END
+result-B-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-02.n3
+END
+test-2-01
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-01
+END
+test-2-02
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-02
+END
+test-2-03
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-03
+END
+test-2-04
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-04
+END
+test-1-04.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-04.rdql
+END
+test-2-05
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-05
+END
+result-B-16.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-16.n3
+END
+test-2-06
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-06
+END
+test-3-04.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-3-04.rdql
+END
+test-2-07
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-07
+END
+test-2-08
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-08
+END
+test-5-04.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-5-04.rdql
+END
+model4.nt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/model4.nt
+END
+test-2-09
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-09
+END
+test-7-04.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-7-04.rdql
+END
+result-0-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-0-01.n3
+END
+test-B-01
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-01
+END
+test-B-02
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-02
+END
+test-B-03
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-03
+END
+test-B-20.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-20.rdql
+END
+test-B-04
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-04
+END
+test-B-05
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-05
+END
+result-8-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-8-01.n3
+END
+test-B-06
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-06
+END
+result-7-03.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-7-03.n3
+END
+test-B-07
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-07
+END
+test-B-08
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-08
+END
+test-B-09
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-09
+END
+result-B-11.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-11.n3
+END
+test-1-01.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-01.rdql
+END
+test-2-10
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-10
+END
+test-3-01.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-3-01.rdql
+END
+test-5-01.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-5-01.rdql
+END
+test-S-04.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-S-04.rdql
+END
+test-7-01.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-7-01.rdql
+END
+test-9-01.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-9-01.rdql
+END
+test-2-09.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-09.rdql
+END
+query-dump.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/query-dump.rdql
+END
+test-A-01.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-A-01.rdql
+END
+test-B-10
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-10
+END
+test-B-11
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-11
+END
+result-5-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-5-02.n3
+END
+test-B-12
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-12
+END
+result-4-04.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-4-04.n3
+END
+test-B-13
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-13
+END
+result-3-06.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-3-06.n3
+END
+test-B-14
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-14
+END
+result-2-08.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-2-08.n3
+END
+test-B-15
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-15
+END
+test-B-16
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-16
+END
+test-B-17
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-17
+END
+result-T-09.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-T-09.n3
+END
+test-B-18
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-18
+END
+test-B-09.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-09.rdql
+END
+test-B-19
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-19
+END
+result-B-20.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-20.n3
+END
+test-1-10.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-10.rdql
+END
+test-S-01.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-S-01.rdql
+END
+result-B-08.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-08.n3
+END
+test-2-06.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-06.rdql
+END
+test-8-01
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-8-01
+END
+test-8-02
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-8-02
+END
+test-4-06.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-4-06.rdql
+END
+test-8-03
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-8-03
+END
+test-8-04
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-8-04
+END
+test-8-05
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-8-05
+END
+result-3-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-3-01.n3
+END
+result-2-03.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-2-03.n3
+END
+result-1-05.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-1-05.n3
+END
+test-B-20
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-20
+END
+test-B-21
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-21
+END
+result-T-04.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-T-04.n3
+END
+test-B-06.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-06.rdql
+END
+test-B-18.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-18.rdql
+END
+manifest-rdql.n3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/manifest-rdql.n3
+END
+result-B-03.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-03.n3
+END
+test-0-03.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-0-03.rdql
+END
+test-3-01
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-3-01
+END
+test-3-02
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-3-02
+END
+test-2-03.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-03.rdql
+END
+test-3-03
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-3-03
+END
+test-3-04
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-3-04
+END
+test-4-03.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-4-03.rdql
+END
+result-B-17.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-17.n3
+END
+test-3-05
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-3-05
+END
+test-3-06
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-3-06
+END
+test-6-03.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-6-03.rdql
+END
+test-3-07
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-3-07
+END
+test-8-03.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-8-03.rdql
+END
+model5.nt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/model5.nt
+END
+result-0-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-0-02.n3
+END
+result-S-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-S-01.n3
+END
+test-B-03.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-03.rdql
+END
+result-8-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-8-02.n3
+END
+test-B-15.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-15.rdql
+END
+result-7-04.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-7-04.n3
+END
+result-B-12.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-12.n3
+END
+test-S-01
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-S-01
+END
+test-S-02
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-S-02
+END
+test-S-03
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-S-03
+END
+test-S-04
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-S-04
+END
+model0.nt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/model0.nt
+END
+test-S-05
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-S-05
+END
+test-1-08.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-08.rdql
+END
+run-some-tests
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/run-some-tests
+END
+result-6-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-6-01.n3
+END
+test-B-12.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-12.rdql
+END
+result-5-03.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-5-03.n3
+END
+result-4-05.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-4-05.n3
+END
+result-3-07.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-3-07.n3
+END
+result-2-09.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-2-09.n3
+END
+result-B-21.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-21.n3
+END
+test-1-05.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-05.rdql
+END
+test-3-05.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-3-05.rdql
+END
+result-B-09.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-09.n3
+END
+test-9-01
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-9-01
+END
+test-9-02
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-9-02
+END
+result-3-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-3-02.n3
+END
+result-2-04.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-2-04.n3
+END
+result-1-06.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-1-06.n3
+END
+test-B-21.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-21.rdql
+END
+result-T-05.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-T-05.n3
+END
+copyright.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/copyright.txt
+END
+result-B-04.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-04.n3
+END
+test-1-02.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-02.rdql
+END
+test-4-01
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-4-01
+END
+test-4-02
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-4-02
+END
+test-3-02.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-3-02.rdql
+END
+test-4-03
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-4-03
+END
+test-4-04
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-4-04
+END
+test-5-02.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-5-02.rdql
+END
+test-4-05
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-4-05
+END
+test-S-05.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-S-05.rdql
+END
+result-B-18.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-18.n3
+END
+test-4-06
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-4-06
+END
+test-7-02.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-7-02.rdql
+END
+test-4-07
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-4-07
+END
+test-9-02.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-9-02.rdql
+END
+model6.nt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/model6.nt
+END
+result-1-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-1-01.n3
+END
+result-0-03.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-0-03.n3
+END
+result-S-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-S-02.n3
+END
+test-A-02.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-A-02.rdql
+END
+result-9-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-9-01.n3
+END
+result-8-03.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-8-03.n3
+END
+result-A-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-A-01.n3
+END
+result-B-13.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-13.n3
+END
+test-S-02.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-S-02.rdql
+END
+model1.nt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/model1.nt
+END
+test-2-07.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-07.rdql
+END
+test-4-07.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-4-07.rdql
+END
+result-1-10.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-1-10.n3
+END
+result-6-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-6-02.n3
+END
+result-5-04.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-5-04.n3
+END
+modelA.nt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/modelA.nt
+END
+result-4-06.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-4-06.n3
+END
+test-B-07.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-07.rdql
+END
+test-B-19.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-19.rdql
+END
+test-0-04.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-0-04.rdql
+END
+test-2-04.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-04.rdql
+END
+test-4-04.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-4-04.rdql
+END
+test-6-04.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-6-04.rdql
+END
+test-8-04.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-8-04.rdql
+END
+result-4-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-4-01.n3
+END
+result-3-03.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-3-03.n3
+END
+result-2-05.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-2-05.n3
+END
+result-1-07.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-1-07.n3
+END
+test-B-04.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-04.rdql
+END
+result-T-06.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-T-06.n3
+END
+test-B-16.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-16.rdql
+END
+test-0-01.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-0-01.rdql
+END
+test-2-01.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-01.rdql
+END
+result-B-05.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-05.n3
+END
+test-5-01
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-5-01
+END
+test-4-01.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-4-01.rdql
+END
+test-5-02
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-5-02
+END
+test-5-03
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-5-03
+END
+test-6-01.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-6-01.rdql
+END
+test-5-04
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-5-04
+END
+test-8-01.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-8-01.rdql
+END
+result-B-19.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-19.n3
+END
+test-1-09.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-09.rdql
+END
+model7.nt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/model7.nt
+END
+result-1-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-1-02.n3
+END
+result-0-04.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-0-04.n3
+END
+result-T-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-T-01.n3
+END
+result-S-03.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-S-03.n3
+END
+test-B-01.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-01.rdql
+END
+test-B-13.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-13.rdql
+END
+result-9-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-9-02.n3
+END
+result-8-04.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-8-04.n3
+END
+test-0-01
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-0-01
+END
+result-A-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-A-02.n3
+END
+test-0-02
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-0-02
+END
+test-0-03
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-0-03
+END
+test-0-04
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-0-04
+END
+test-2-10.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-10.rdql
+END
+result-B-14.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-14.n3
+END
+test-1-06.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-06.rdql
+END
+model2.nt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/model2.nt
+END
+test-3-06.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-3-06.rdql
+END
+model8.n3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/model8.n3
+END
+result-T-10.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-T-10.n3
+END
+test-B-10.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-10.rdql
+END
+result-7-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-7-01.n3
+END
+result-6-03.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-6-03.n3
+END
+result-4-07.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-4-07.n3
+END
+test-1-03.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-03.rdql
+END
+test-3-03.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-3-03.rdql
+END
+test-5-03.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-5-03.rdql
+END
+test-7-03.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-7-03.rdql
+END
+result-4-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-4-02.n3
+END
+result-3-04.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-3-04.n3
+END
+result-2-06.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-2-06.n3
+END
+result-1-08.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-1-08.n3
+END
+result-T-07.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-T-07.n3
+END
+result-B-06.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-06.n3
+END
+test-6-01
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-6-01
+END
+test-S-03.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-S-03.rdql
+END
+test-6-02
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-6-02
+END
+test-6-03
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-6-03
+END
+test-6-04
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-6-04
+END
+run-tests
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/run-tests
+END
+test-2-08.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-08.rdql
+END
+query-dump
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/query-dump
+END
+result-2-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-2-01.n3
+END
+result-1-03.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-1-03.n3
+END
+result-T-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-T-02.n3
+END
+result-S-04.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-S-04.n3
+END
+result-8-05.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-8-05.n3
+END
+test-B-08.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-B-08.rdql
+END
+result-B-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-01.n3
+END
+test-1-01
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-01
+END
+test-1-02
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-02
+END
+test-1-03
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-03
+END
+test-1-04
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-04
+END
+result-B-15.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/result-B-15.n3
+END
+test-1-05
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-05
+END
+test-1-06
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-06
+END
+test-2-05.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-2-05.rdql
+END
+test-1-07
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-07
+END
+test-1-08
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-08
+END
+test-4-05.rdql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-4-05.rdql
+END
+test-1-09
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/test-1-09
+END
+model3.nt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/RDQL-ARQ/model3.nt
+END

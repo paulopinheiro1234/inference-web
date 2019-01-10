@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/SubQuery
+END
+sub-select-01.srx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/SubQuery/sub-select-01.srx
+END
+sub-select-02.srx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/SubQuery/sub-select-02.srx
+END
+sub-select-03.srx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/SubQuery/sub-select-03.srx
+END
+sub-select-04.srx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/SubQuery/sub-select-04.srx
+END
+sub-select-01.arq
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/SubQuery/sub-select-01.arq
+END
+sub-select-02.arq
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/SubQuery/sub-select-02.arq
+END
+manifest.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/SubQuery/manifest.ttl
+END
+sub-select-03.arq
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/SubQuery/sub-select-03.arq
+END
+sub-select-04.arq
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/SubQuery/sub-select-04.arq
+END
+data.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/SubQuery/data.ttl
+END

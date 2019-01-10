@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Basic
+END
+q-base-prefix-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Basic/q-base-prefix-1.rq
+END
+q-base-prefix-2.rq
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Basic/q-base-prefix-2.rq
+END
+r-base-prefix-1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Basic/r-base-prefix-1.ttl
+END
+q-base-prefix-3.rq
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Basic/q-base-prefix-3.rq
+END
+r-base-prefix-2.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Basic/r-base-prefix-2.ttl
+END
+q-base-prefix-4.rq
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Basic/q-base-prefix-4.rq
+END
+q-base-prefix-5.rq
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Basic/q-base-prefix-5.rq
+END
+r-base-prefix-3.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Basic/r-base-prefix-3.ttl
+END
+r-base-prefix-4.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Basic/r-base-prefix-4.ttl
+END
+r-base-prefix-5.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Basic/r-base-prefix-5.ttl
+END
+manifest.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Basic/manifest.ttl
+END
+data-1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Basic/data-1.ttl
+END

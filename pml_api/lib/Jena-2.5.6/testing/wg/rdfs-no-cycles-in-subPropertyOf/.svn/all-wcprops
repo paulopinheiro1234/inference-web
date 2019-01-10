@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfs-no-cycles-in-subPropertyOf
+END
+test001.nt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfs-no-cycles-in-subPropertyOf/test001.nt
+END
+test001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfs-no-cycles-in-subPropertyOf/test001.rdf
+END

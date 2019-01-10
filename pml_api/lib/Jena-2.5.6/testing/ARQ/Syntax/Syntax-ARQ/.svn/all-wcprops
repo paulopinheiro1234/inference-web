@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ
+END
+syntax-count-02.arq
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-count-02.arq
+END
+syntax-count-03.arq
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-count-03.arq
+END
+syntax-count-04.arq
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-count-04.arq
+END
+syntax-select-expr-01.arq
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-select-expr-01.arq
+END
+syntax-select-expr-02.arq
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-select-expr-02.arq
+END
+syntax-group-01.arq
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-group-01.arq
+END
+syntax-select-expr-03.arq
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-select-expr-03.arq
+END
+syntax-group-02.arq
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-group-02.arq
+END
+syntax-group-03.arq
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-group-03.arq
+END
+syntax-select-expr-04.arq
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-select-expr-04.arq
+END
+syntax-select-expr-05.arq
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-select-expr-05.arq
+END
+syntax-group-04.arq
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-group-04.arq
+END
+syntax-select-expr-06.arq
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-select-expr-06.arq
+END
+syntax-service-01.arq
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-service-01.arq
+END
+syntax-select-expr-07.arq
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-select-expr-07.arq
+END
+syntax-subquery-bad-01.arq
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-subquery-bad-01.arq
+END
+syntax-subquery-bad-02.arq
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-subquery-bad-02.arq
+END
+syntax-let-bad-01.arq
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-let-bad-01.arq
+END
+syntax-subquery-01.arq
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-subquery-01.arq
+END
+syntax-subquery-02.arq
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-subquery-02.arq
+END
+syntax-subquery-03.arq
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-subquery-03.arq
+END
+syntax-subquery-04.arq
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-subquery-04.arq
+END
+syntax-let-01.arq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-let-01.arq
+END
+manifest.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/manifest.ttl
+END
+syntax-let-02.arq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-let-02.arq
+END
+syntax-count-01.arq
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-ARQ/syntax-count-01.arq
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/context/accessor
+END
+DataObjectManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/context/accessor/DataObjectManager.java
+END
+ToolOntologyCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/context/accessor/ToolOntologyCache.java
+END
+Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/context/accessor/Writer.java
+END
+Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/context/accessor/Reader.java
+END
+OntologyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/context/accessor/OntologyManager.java
+END
+Ontology.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/context/accessor/Ontology.java
+END

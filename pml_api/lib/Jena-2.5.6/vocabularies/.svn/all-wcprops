@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies
+END
+ont-event.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/ont-event.rdf
+END
+assembler.n3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/assembler.n3
+END
+test-query.n3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/test-query.n3
+END
+owl.owl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/owl.owl
+END
+test-manifest.n3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/test-manifest.n3
+END
+jenavocab.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/jenavocab.rdf
+END
+dublin-core_11.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/dublin-core_11.xml
+END
+test-manifest-x.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/test-manifest-x.n3
+END
+daml+oil-2000-12.daml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/daml+oil-2000-12.daml
+END
+daml+oil.daml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/daml+oil.daml
+END
+dublin-core_terms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/dublin-core_terms.xml
+END
+location-mapping-rdfs.n3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/location-mapping-rdfs.n3
+END
+ont-manager.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/ont-manager.rdf
+END
+jena-model-spec.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/jena-model-spec.n3
+END
+rdf-schema.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/rdf-schema.rdf
+END
+dublin-core_types.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/dublin-core_types.xml
+END
+result-set.n3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/vocabularies/result-set.n3
+END

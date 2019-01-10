@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use
+END
+DAMLVocabulary.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/DAMLVocabulary.html
+END
+RDFS.Nodes.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/RDFS.Nodes.html
+END
+ReasonerVocabulary.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/ReasonerVocabulary.html
+END
+TestManifest.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/TestManifest.html
+END
+RSS.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/RSS.html
+END
+JenaModelSpec.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/JenaModelSpec.html
+END
+DCTypes.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/DCTypes.html
+END
+RDF.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/RDF.html
+END
+RDFTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/RDFTest.html
+END
+DAML_OIL.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/DAML_OIL.html
+END
+RDFSyntax.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/RDFSyntax.html
+END
+RDF.Nodes.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/RDF.Nodes.html
+END
+OWLResults.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/OWLResults.html
+END
+DB.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/DB.html
+END
+DC_10.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/DC_10.html
+END
+DC.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/DC.html
+END
+DC_11.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/DC_11.html
+END
+ResultSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/ResultSet.html
+END
+OntDocManagerVocab.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/OntDocManagerVocab.html
+END
+XSD.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/XSD.html
+END
+TestManifestX.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/TestManifestX.html
+END
+RDFS.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/RDFS.html
+END
+LocationMappingVocab.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/LocationMappingVocab.html
+END
+VCARD.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/VCARD.html
+END
+OntEventsVocab.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/OntEventsVocab.html
+END
+OWL.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/OWL.html
+END
+DCTerms.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/DCTerms.html
+END
+OWLTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/vocabulary/class-use/OWLTest.html
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/db/class-use
+END
+ModelRDB.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/db/class-use/ModelRDB.html
+END
+GraphRDB.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/db/class-use/GraphRDB.html
+END
+IDBConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/db/class-use/IDBConnection.html
+END
+RDFRDBException.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/db/class-use/RDFRDBException.html
+END
+DBConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/db/class-use/DBConnection.html
+END

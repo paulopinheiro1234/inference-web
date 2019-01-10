@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-difference-between-ID-and-about
+END
+test1.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-difference-between-ID-and-about/test1.rdf
+END
+test2.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-difference-between-ID-and-about/test2.rdf
+END
+test3.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-difference-between-ID-and-about/test3.rdf
+END
+error1-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-difference-between-ID-and-about/error1-bad.nt
+END
+test1.nt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-difference-between-ID-and-about/test1.nt
+END
+error1-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-difference-between-ID-and-about/error1-good.nt
+END
+test2.nt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-difference-between-ID-and-about/test2.nt
+END
+test3.nt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-difference-between-ID-and-about/test3.nt
+END
+error1.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-difference-between-ID-and-about/error1.rdf
+END

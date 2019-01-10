@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared
+END
+WrappedIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/WrappedIOException.java
+END
+UpdateDeniedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/UpdateDeniedException.java
+END
+BadDescriptionMultipleRootsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/BadDescriptionMultipleRootsException.java
+END
+NoSuchReasonerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/NoSuchReasonerException.java
+END
+ReificationStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/ReificationStyle.java
+END
+BadCharLiteralException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/BadCharLiteralException.java
+END
+PropertyNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/PropertyNotFoundException.java
+END
+NamespaceEndsWithNameCharException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/NamespaceEndsWithNameCharException.java
+END
+AddDeniedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/AddDeniedException.java
+END
+WrappedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/WrappedException.java
+END
+UnknownPropertyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/UnknownPropertyException.java
+END
+BadURIException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/BadURIException.java
+END
+CannotCreateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/CannotCreateException.java
+END
+Lock.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/Lock.java
+END
+ClosedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/ClosedException.java
+END
+DeleteDeniedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/DeleteDeniedException.java
+END
+JenaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/JenaException.java
+END
+AssertionFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/AssertionFailureException.java
+END
+BadBooleanException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/BadBooleanException.java
+END
+DoesNotExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/DoesNotExistException.java
+END
+LockNone.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/LockNone.java
+END
+QueryStageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/QueryStageException.java
+END
+PrefixMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/PrefixMapping.java
+END
+BadDescriptionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/BadDescriptionException.java
+END
+BadDescriptionNoRootException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/BadDescriptionNoRootException.java
+END
+LockMutex.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/LockMutex.java
+END
+NotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/NotFoundException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/package.html
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/Command.java
+END
+RulesetNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/RulesetNotFoundException.java
+END
+ConfigException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/ConfigException.java
+END
+NoReaderForLangException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/NoReaderForLangException.java
+END
+AlreadyReifiedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/AlreadyReifiedException.java
+END
+InvalidPropertyURIException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/InvalidPropertyURIException.java
+END
+CannotEncodeCharacterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/CannotEncodeCharacterException.java
+END
+RandomOrderGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/RandomOrderGraph.java
+END
+BrokenException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/BrokenException.java
+END
+SyntaxError.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/SyntaxError.java
+END
+CannotReifyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/CannotReifyException.java
+END
+NoReasonerSuppliedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/NoReasonerSuppliedException.java
+END
+AlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/AlreadyExistsException.java
+END
+LockMRSW.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/LockMRSW.java
+END
+NoWriterForLangException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/shared/NoWriterForLangException.java
+END

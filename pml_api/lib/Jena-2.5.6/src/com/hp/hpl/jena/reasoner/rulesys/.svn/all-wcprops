@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys
+END
+RuleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/RuleContext.java
+END
+BasicForwardRuleInfGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/BasicForwardRuleInfGraph.java
+END
+LPBackwardRuleInfGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/LPBackwardRuleInfGraph.java
+END
+OWLMicroReasonerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/OWLMicroReasonerFactory.java
+END
+ForwardRuleInfGraphI.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/ForwardRuleInfGraphI.java
+END
+OWLFBRuleReasonerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/OWLFBRuleReasonerFactory.java
+END
+GenericRuleReasonerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/GenericRuleReasonerFactory.java
+END
+BackwardRuleInfGraphI.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/BackwardRuleInfGraphI.java
+END
+ClauseEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/ClauseEntry.java
+END
+GenericRuleReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/GenericRuleReasoner.java
+END
+OWLMiniReasonerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/OWLMiniReasonerFactory.java
+END
+DAMLMicroReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/DAMLMicroReasoner.java
+END
+RuleReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/RuleReasoner.java
+END
+RETERuleInfGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/RETERuleInfGraph.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/Rule.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/Util.java
+END
+RDFSRuleReasonerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/RDFSRuleReasonerFactory.java
+END
+OWLMiniReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/OWLMiniReasoner.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/package.html
+END
+FBRuleReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/FBRuleReasoner.java
+END
+SilentAddI.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/SilentAddI.java
+END
+Functor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/Functor.java
+END
+Node_RuleVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/Node_RuleVariable.java
+END
+BuiltinException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/BuiltinException.java
+END
+RDFSRuleReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/RDFSRuleReasoner.java
+END
+RDFSFBRuleReasonerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/RDFSFBRuleReasonerFactory.java
+END
+OWLMicroReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/OWLMicroReasoner.java
+END
+RuleDerivation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/RuleDerivation.java
+END
+RDFSFBRuleReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/RDFSFBRuleReasoner.java
+END
+BasicForwardRuleReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/BasicForwardRuleReasoner.java
+END
+RuleReasonerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/RuleReasonerFactory.java
+END
+DAMLMicroReasonerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/DAMLMicroReasonerFactory.java
+END
+RulePreprocessHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/RulePreprocessHook.java
+END
+FBRuleInfGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/FBRuleInfGraph.java
+END
+BindingEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/BindingEnvironment.java
+END
+BasicFBReifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/BasicFBReifier.java
+END
+BuiltinRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/BuiltinRegistry.java
+END
+OWLFBRuleReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/OWLFBRuleReasoner.java
+END
+LPBackwardRuleReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/LPBackwardRuleReasoner.java
+END
+RDFSRuleInfGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/RDFSRuleInfGraph.java
+END
+Builtin.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/Builtin.java
+END
+RDFSForwardRuleReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/RDFSForwardRuleReasoner.java
+END

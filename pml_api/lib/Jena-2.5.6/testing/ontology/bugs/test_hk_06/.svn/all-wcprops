@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/bugs/test_hk_06
+END
+a.owl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/bugs/test_hk_06/a.owl
+END
+b.owl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/bugs/test_hk_06/b.owl
+END

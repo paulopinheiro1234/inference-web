@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/owl/list-syntax
+END
+test-ldp.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/owl/list-syntax/test-ldp.rdf
+END
+test.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/owl/list-syntax/test.rdf
+END
+test-with-import.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/owl/list-syntax/test-with-import.rdf
+END
+test-proptypes.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/owl/list-syntax/test-proptypes.rdf
+END

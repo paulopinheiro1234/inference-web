@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl
+END
+RSIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/RSIteratorImpl.java
+END
+IteratorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/IteratorFactory.java
+END
+NodeIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/NodeIteratorImpl.java
+END
+SeqNodeIteratorFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/SeqNodeIteratorFactoryImpl.java
+END
+ResIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/ResIteratorImpl.java
+END
+NodeIteratorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/NodeIteratorFactory.java
+END
+RDFListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/RDFListImpl.java
+END
+ModelLockImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/ModelLockImpl.java
+END
+ModelCom.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/ModelCom.java
+END
+NTripleReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/NTripleReader.java
+END
+ModelMakerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/ModelMakerImpl.java
+END
+MemoryModelGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/MemoryModelGetter.java
+END
+ContainerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/ContainerImpl.java
+END
+ModelListenerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/ModelListenerAdapter.java
+END
+ResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/ResourceImpl.java
+END
+NTripleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/NTripleWriter.java
+END
+SeqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/SeqImpl.java
+END
+BagImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/BagImpl.java
+END
+NsIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/NsIteratorImpl.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/Util.java
+END
+ReifiedStatementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/ReifiedStatementImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/package.html
+END
+InfModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/InfModelImpl.java
+END
+StmtIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/StmtIteratorImpl.java
+END
+RDFReaderFImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/RDFReaderFImpl.java
+END
+StatementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/StatementImpl.java
+END
+RDFDefaultErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/RDFDefaultErrorHandler.java
+END
+SeqNodeIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/SeqNodeIteratorImpl.java
+END
+ContainerI.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/ContainerI.java
+END
+ContNodeIteratorFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/ContNodeIteratorFactoryImpl.java
+END
+StatementBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/StatementBase.java
+END
+RDFWriterFImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/RDFWriterFImpl.java
+END
+AltImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/AltImpl.java
+END
+SelectorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/SelectorImpl.java
+END
+ContNodeIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/ContNodeIteratorImpl.java
+END
+ModelReifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/ModelReifier.java
+END
+PropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/PropertyImpl.java
+END
+LiteralImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/rdf/model/impl/LiteralImpl.java
+END

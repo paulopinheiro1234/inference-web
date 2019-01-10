@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/rdf/arp/lang
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/rdf/arp/lang/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/rdf/arp/lang/package-use.html
+END
+LanguageTagSyntaxException.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/rdf/arp/lang/LanguageTagSyntaxException.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/rdf/arp/lang/package-summary.html
+END
+IanaLanguageTag.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/rdf/arp/lang/IanaLanguageTag.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/rdf/arp/lang/package-tree.html
+END
+Iso3166.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/rdf/arp/lang/Iso3166.html
+END
+Iso639.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/rdf/arp/lang/Iso639.html
+END
+LanguageTagCodes.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/rdf/arp/lang/LanguageTagCodes.html
+END
+LanguageTag.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/rdf/arp/lang/LanguageTag.html
+END

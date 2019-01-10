@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/n3/turtle/test
+END
+TestSyntax.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/n3/turtle/test/TestSyntax.java
+END
+TurtleTestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/n3/turtle/test/TurtleTestFactory.java
+END
+TurtleTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/n3/turtle/test/TurtleTestSuite.java
+END
+TurtleTestVocab.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/n3/turtle/test/TurtleTestVocab.java
+END
+TestBadSyntax.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/n3/turtle/test/TestBadSyntax.java
+END
+TurtleInternalTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/n3/turtle/test/TurtleInternalTests.java
+END
+TestTurtle.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/n3/turtle/test/TestTurtle.java
+END
+TestTurtleReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/n3/turtle/test/TestTurtleReader.java
+END

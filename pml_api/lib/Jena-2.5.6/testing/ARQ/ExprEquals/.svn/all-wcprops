@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals
+END
+query-eq-5.rq
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/query-eq-5.rq
+END
+result-eq2-graph-1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/result-eq2-graph-1.ttl
+END
+result-eq2-1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/result-eq2-1.ttl
+END
+result-eq2-2.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/result-eq2-2.ttl
+END
+Notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/Notes.txt
+END
+query-eq2-graph-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/query-eq2-graph-1.rq
+END
+query-eq2-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/query-eq2-1.rq
+END
+query-eq2-2.rq
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/query-eq2-2.rq
+END
+data-eq.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/data-eq.ttl
+END
+result-eq-graph-1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/result-eq-graph-1.ttl
+END
+result-eq-1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/result-eq-1.ttl
+END
+result-eq-graph-2.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/result-eq-graph-2.ttl
+END
+result-eq-graph-3.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/result-eq-graph-3.ttl
+END
+result-eq-2.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/result-eq-2.ttl
+END
+result-eq-graph-4.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/result-eq-graph-4.ttl
+END
+result-eq-3.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/result-eq-3.ttl
+END
+result-eq-graph-5.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/result-eq-graph-5.ttl
+END
+result-eq-4.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/result-eq-4.ttl
+END
+result-eq-5.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/result-eq-5.ttl
+END
+manifest.n3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/manifest.n3
+END
+query-eq-graph-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/query-eq-graph-1.rq
+END
+query-eq-graph-2.rq
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/query-eq-graph-2.rq
+END
+query-eq-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/query-eq-1.rq
+END
+query-eq-graph-3.rq
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/query-eq-graph-3.rq
+END
+query-eq-2.rq
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/query-eq-2.rq
+END
+query-eq-graph-4.rq
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/query-eq-graph-4.rq
+END
+query-eq-3.rq
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/query-eq-3.rq
+END
+query-eq-4.rq
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/query-eq-4.rq
+END
+query-eq-graph-5.rq
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprEquals/query-eq-graph-5.rq
+END

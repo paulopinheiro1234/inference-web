@@ -1,0 +1,455 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use
+END
+BufferPipe.Finished.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/BufferPipe.Finished.html
+END
+Expression.Variable.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Expression.Variable.html
+END
+BufferPipe.BoundedBufferTakeException.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/BufferPipe.BoundedBufferTakeException.html
+END
+Element.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Element.html
+END
+Mapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Mapping.html
+END
+TripleSorter.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/TripleSorter.html
+END
+Expression.BoolConstant.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Expression.BoolConstant.html
+END
+Query.UnboundVariableException.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Query.UnboundVariableException.html
+END
+QueryNodeFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/QueryNodeFactory.html
+END
+Query.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Query.html
+END
+SimpleQueryEngine.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/SimpleQueryEngine.html
+END
+SimpleQueryEngine.Cons.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/SimpleQueryEngine.Cons.html
+END
+ConstraintStage.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/ConstraintStage.html
+END
+ExpressionSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/ExpressionSet.html
+END
+FixedValuator.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/FixedValuator.html
+END
+Pattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Pattern.html
+END
+Rewrite.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Rewrite.html
+END
+QueryNode.Bound.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/QueryNode.Bound.html
+END
+Expression.Constant.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Expression.Constant.html
+END
+QueryNode.JustBound.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/QueryNode.JustBound.html
+END
+Rewrite.DyadicLiteral.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Rewrite.DyadicLiteral.html
+END
+PatternLiteral.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/PatternLiteral.html
+END
+Pipe.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Pipe.html
+END
+Dyadic.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Dyadic.html
+END
+QueryNode.Any.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/QueryNode.Any.html
+END
+PatternStage.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/PatternStage.html
+END
+Expression.Valof.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Expression.Valof.html
+END
+VariableValues.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/VariableValues.html
+END
+Domain.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Domain.html
+END
+PatternCompiler.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/PatternCompiler.html
+END
+Expression.Base.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Expression.Base.html
+END
+StageElement.RunValuatorSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/StageElement.RunValuatorSet.html
+END
+SimpleQueryHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/SimpleQueryHandler.html
+END
+Matcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Matcher.html
+END
+GuardArranger.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/GuardArranger.html
+END
+IndexValues.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/IndexValues.html
+END
+SimpleQueryPlan.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/SimpleQueryPlan.html
+END
+PatternStageCompiler.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/PatternStageCompiler.html
+END
+QueryNodeFactoryBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/QueryNodeFactoryBase.html
+END
+SlotValuator.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/SlotValuator.html
+END
+Expression.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Expression.html
+END
+Fixed.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Fixed.html
+END
+TreeQueryPlan.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/TreeQueryPlan.html
+END
+QueryHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/QueryHandler.html
+END
+NamedGraphMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/NamedGraphMap.html
+END
+BufferPipe.BoundedBufferPutException.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/BufferPipe.BoundedBufferPutException.html
+END
+QueryTriple.SimpleApplyer.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/QueryTriple.SimpleApplyer.html
+END
+Expression.Util.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Expression.Util.html
+END
+QueryNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/QueryNode.html
+END
+StageElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/StageElement.html
+END
+InitialStage.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/InitialStage.html
+END
+PatternStageBase.Work.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/PatternStageBase.Work.html
+END
+QueryNode.MustNotMatchException.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/QueryNode.MustNotMatchException.html
+END
+QueryTriple.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/QueryTriple.html
+END
+QueryNode.Bind.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/QueryNode.Bind.html
+END
+BufferPipe.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/BufferPipe.html
+END
+PatternStageBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/PatternStageBase.html
+END
+Expression.Fixed.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Expression.Fixed.html
+END
+Valuator.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Valuator.html
+END
+StageElement.FindTriples.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/StageElement.FindTriples.html
+END
+Expression.Application.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Expression.Application.html
+END
+StageElement.PutBindings.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/StageElement.PutBindings.html
+END
+Stage.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Stage.html
+END
+VariableIndexes.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/VariableIndexes.html
+END
+Bound.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Bound.html
+END
+ExpressionFunctionURIs.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/ExpressionFunctionURIs.html
+END
+SimpleTripleSorter.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/SimpleTripleSorter.html
+END
+QueryNode.Fixed.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/QueryNode.Fixed.html
+END
+ValuatorSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/ValuatorSet.html
+END
+SimpleTreeQueryPlan.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/SimpleTreeQueryPlan.html
+END
+BindingQueryPlan.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/BindingQueryPlan.html
+END
+NamedTripleBunches.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/NamedTripleBunches.html
+END
+Bind.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Bind.html
+END
+Applyer.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Applyer.html
+END
+Util.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/graph/query/class-use/Util.html
+END

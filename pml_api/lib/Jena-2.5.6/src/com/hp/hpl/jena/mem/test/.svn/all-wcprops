@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test
+END
+TestMixedGraphMem.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestMixedGraphMem.java
+END
+TestSmallGraphMem.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestSmallGraphMem.java
+END
+TestMemPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestMemPackage.java
+END
+TestSuiteRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestSuiteRegression.java
+END
+TestHashCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestHashCommon.java
+END
+TestCaseBugs.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestCaseBugs.java
+END
+TestHashedTripleBunch.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestHashedTripleBunch.java
+END
+TestGraphTripleStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestGraphTripleStore.java
+END
+TestGraphMem.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestGraphMem.java
+END
+TestHashedBunchMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestHashedBunchMap.java
+END
+TestCaseBasic.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestCaseBasic.java
+END
+TestStoreSpeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestStoreSpeed.java
+END
+TestWrappedSetTripleBunch.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestWrappedSetTripleBunch.java
+END
+TestArrayTripleBunch.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestArrayTripleBunch.java
+END
+TestTripleBunch.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/TestTripleBunch.java
+END
+AbstractTestGraphMem.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/test/AbstractTestGraphMem.java
+END

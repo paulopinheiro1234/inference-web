@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/bin
+END
+sparql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/bin/sparql
+END
+arq
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/bin/arq
+END
+arq_n3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/bin/arq_n3
+END
+query
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/bin/query
+END
+arq_version
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/bin/arq_version
+END
+qparse
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/bin/qparse
+END
+rset
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/bin/rset
+END
+cmd_template
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/bin/cmd_template
+END
+qexpr
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/bin/qexpr
+END
+make_classpath
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/bin/make_classpath
+END
+arq_path
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/bin/arq_path
+END
+qtest
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/bin/qtest
+END

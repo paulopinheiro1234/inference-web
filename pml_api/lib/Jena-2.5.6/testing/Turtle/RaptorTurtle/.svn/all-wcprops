@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle
+END
+bad-07.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/bad-07.ttl
+END
+bad-08.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/bad-08.ttl
+END
+bad-09.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/bad-09.ttl
+END
+rdf-schema.out
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/rdf-schema.out
+END
+rdfs-namespace.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/rdfs-namespace.ttl
+END
+rdfq-results.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/rdfq-results.ttl
+END
+test-00.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-00.ttl
+END
+test-01.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-01.ttl
+END
+test-02.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-02.ttl
+END
+test-03.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-03.ttl
+END
+test-04.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-04.ttl
+END
+test-10.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-10.out
+END
+test-05.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-05.ttl
+END
+test-06.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-06.ttl
+END
+test-11.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-11.out
+END
+test-12.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-12.out
+END
+test-07.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-07.ttl
+END
+bad-10.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/bad-10.ttl
+END
+test-13.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-13.out
+END
+test-08.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-08.ttl
+END
+bad-11.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/bad-11.ttl
+END
+test-09.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-09.ttl
+END
+test-14.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-14.out
+END
+bad-12.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/bad-12.ttl
+END
+test-15.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-15.out
+END
+bad-13.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/bad-13.ttl
+END
+test-16.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-16.out
+END
+rdf-schema.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/rdf-schema.ttl
+END
+manifest-bad.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/manifest-bad.ttl
+END
+rdfs-namespace.out
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/rdfs-namespace.out
+END
+manifest-good.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/manifest-good.ttl
+END
+test-10.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-10.ttl
+END
+test-11.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-11.ttl
+END
+rdfq-results.out
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/rdfq-results.out
+END
+test-12.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-12.ttl
+END
+test-13.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-13.ttl
+END
+test-00.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-00.out
+END
+test-14.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-14.ttl
+END
+test-01.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-01.out
+END
+test-15.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-15.ttl
+END
+test-02.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-02.out
+END
+test-16.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-16.ttl
+END
+test-03.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-03.out
+END
+bad-00.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/bad-00.ttl
+END
+test-04.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-04.out
+END
+bad-01.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/bad-01.ttl
+END
+test-05.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-05.out
+END
+bad-02.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/bad-02.ttl
+END
+test-06.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-06.out
+END
+bad-03.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/bad-03.ttl
+END
+test-07.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-07.out
+END
+bad-04.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/bad-04.ttl
+END
+test-08.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-08.out
+END
+bad-05.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/bad-05.ttl
+END
+test-09.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/test-09.out
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/README.txt
+END
+bad-06.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/RaptorTurtle/bad-06.ttl
+END

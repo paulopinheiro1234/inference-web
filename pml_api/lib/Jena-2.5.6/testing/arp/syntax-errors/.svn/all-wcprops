@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/syntax-errors
+END
+error001-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/syntax-errors/error001-bad.nt
+END
+error002-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/syntax-errors/error002-bad.nt
+END
+error003-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/syntax-errors/error003-bad.nt
+END
+error001-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/syntax-errors/error001-good.nt
+END
+error002-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/syntax-errors/error002-good.nt
+END
+error003-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/syntax-errors/error003-good.nt
+END
+error001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/syntax-errors/error001.rdf
+END
+error002.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/syntax-errors/error002.rdf
+END
+error003.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/syntax-errors/error003.rdf
+END

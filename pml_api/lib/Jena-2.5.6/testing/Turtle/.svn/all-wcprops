@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle
+END
+manifest.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/manifest.ttl
+END
+simple.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/simple.ttl
+END
+TurtleTestVocab.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/TurtleTestVocab.ttl
+END
+build
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/build
+END
+turtle-tests.zip
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/turtle-tests.zip
+END
+i18n.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/Turtle/i18n.ttl
+END

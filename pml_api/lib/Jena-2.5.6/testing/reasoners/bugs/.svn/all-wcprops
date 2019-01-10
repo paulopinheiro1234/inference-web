@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs
+END
+food.owl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/food.owl
+END
+rangeBug.owl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/rangeBug.owl
+END
+cceTest.owl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/cceTest.owl
+END
+bad-intersection.owl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/bad-intersection.owl
+END
+owl-partial.owl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/owl-partial.owl
+END
+userDatatypes.owl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/userDatatypes.owl
+END
+subpropertyModel.n3
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/subpropertyModel.n3
+END
+broken.n3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/broken.n3
+END
+cardFPTest.owl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/cardFPTest.owl
+END
+deleteBug.owl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/deleteBug.owl
+END
+tgcCMEbug.owl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/tgcCMEbug.owl
+END
+sbug.owl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/sbug.owl
+END
+rdfs-error1.brules
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/rdfs-error1.brules
+END
+unbroken.n3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/unbroken.n3
+END
+wine.owl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/wine.owl
+END
+equivalentClassTest.owl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/equivalentClassTest.owl
+END
+literalLeak.daml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/literalLeak.daml
+END
+loop.owl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/loop.owl
+END
+sbug.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/sbug.rdf
+END
+owl-debug.rules
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/owl-debug.rules
+END
+test.owl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/test.owl
+END
+dtValidation.owl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/bugs/dtValidation.owl
+END

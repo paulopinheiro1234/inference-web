@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/FileManager
+END
+fmgr-test.zip
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/FileManager/fmgr-test.zip
+END
+location-mapping-test-file
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/FileManager/location-mapping-test-file
+END
+location-mapping-test.n3
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/FileManager/location-mapping-test.n3
+END
+location-mapping.n3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/FileManager/location-mapping.n3
+END
+foo.n3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/FileManager/foo.n3
+END
+fmgr-test-file
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/FileManager/fmgr-test-file
+END

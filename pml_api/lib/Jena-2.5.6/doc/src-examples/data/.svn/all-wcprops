@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/src-examples/data
+END
+test1.owl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/src-examples/data/test1.owl
+END
+test2.owl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/src-examples/data/test2.owl
+END
+eswc-2006-09-21.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/src-examples/data/eswc-2006-09-21.rdf
+END
+camera.owl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/src-examples/data/camera.owl
+END

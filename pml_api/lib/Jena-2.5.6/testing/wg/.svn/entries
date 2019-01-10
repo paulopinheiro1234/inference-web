@@ -1,0 +1,598 @@
+10
+
+dir
+237
+http://inference-web.googlecode.com/svn/trunk/pml_api/lib/Jena-2.5.6/testing/wg
+http://inference-web.googlecode.com/svn
+
+
+
+2010-05-18T18:42:57.980870Z
+228
+changcs1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b7b0b90b-7027-0410-bdf8-abaac9723eb6
+
+extra-credit
+dir
+
+rdfs-entailment
+dir
+
+rdfs-subClassOf-a-Property
+dir
+
+rdfms-not-id-and-resource-attr
+dir
+
+rdfms-abouteach
+dir
+
+Class
+dir
+
+someValuesFrom
+dir
+
+rdfs-container-membership-superProperty
+dir
+
+sameAs
+dir
+
+maxCardinality
+dir
+
+I3.2
+dir
+
+I5.1
+dir
+
+unionOf
+dir
+
+I3.4
+dir
+
+I5.2
+dir
+
+xmlsch-02
+dir
+
+rdfms-rdf-id
+dir
+
+I5.3
+dir
+
+Manifest-orig.rdf
+file
+
+
+
+
+2016-02-26T16:44:34.442629Z
+787931350b366404c6ba768e29eb235a
+2010-05-18T18:42:57.980870Z
+228
+changcs1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+185178
+
+rdfms-rdf-names-use
+dir
+
+AnnotationProperty
+dir
+
+I5.5
+dir
+
+rdfms-nested-bagIDs
+dir
+
+I5.8
+dir
+
+rdfms-duplicate-member-props
+dir
+
+intersectionOf
+dir
+
+xmlbase
+dir
+
+rdfms-difference-between-ID-and-about
+dir
+
+distinctMembers
+dir
+
+Manifest-from-web.rdf
+file
+
+
+
+
+2016-02-26T16:44:34.442629Z
+d603d22f444dad978e8732fb7066644a
+2010-05-18T18:42:57.980870Z
+228
+changcs1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+235764
+
+TransitiveProperty
+dir
+
+I5.21
+dir
+
+I5.24
+dir
+
+Manifest-extra.rdf
+file
+
+
+
+
+2016-02-26T16:44:34.442629Z
+d67995b4ad98e1019a5b5b178a1b9269
+2010-05-18T18:42:57.980870Z
+228
+changcs1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16231
+
+statement-entailment
+dir
+
+rdfs-subPropertyOf-semantics
+dir
+
+rdfms-empty-property-elements
+dir
+
+I5.26
+dir
+
+Restriction
+dir
+
+empty.rdf
+file
+
+
+
+
+2016-02-26T16:44:34.446629Z
+e2f9e41e6e04582a8dd205cc78dbb77a
+2010-05-18T18:42:57.980870Z
+228
+changcs1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+188
+
+rdfms-literal-is-xml-structure
+dir
+
+Manifest-wrong.rdf
+file
+
+
+
+
+2016-02-26T16:44:34.442629Z
+f7ac41fd57f9259862038a9ccc7c5f56
+2010-05-18T18:42:57.980870Z
+228
+changcs1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3554
+
+tex-01
+dir
+
+DatatypeProperty
+dir
+
+rdfms-xml-literal-namespaces
+dir
+
+SymmetricProperty
+dir
+
+amp-in-url
+dir
+
+rdf-ns-prefix-confusion
+dir
+
+pfps-10
+dir
+
+rdf-containers-syntax-vs-schema
+dir
+
+complementOf
+dir
+
+differentFrom
+dir
+
+xml-canon
+dir
+
+rdf-element-not-mandatory
+dir
+
+rdfms-syntax-incomplete
+dir
+
+rdfs-domain-and-range
+dir
+
+imports
+dir
+
+datatypes
+dir
+
+rdfs-no-cycles-in-subClassOf
+dir
+
+AllDifferent
+dir
+
+inverseOf
+dir
+
+rdfms-seq-representation
+dir
+
+miscellaneous
+dir
+
+rdfms-identity-anon-resources
+dir
+
+InverseFunctionalProperty
+dir
+
+equivalentClass
+dir
+
+rdf-charmod-literals
+dir
+
+oneOf
+dir
+
+unrecognised-xml-attributes
+dir
+
+FunctionalProperty
+dir
+
+backwardCompatibleWith
+dir
+
+rdfms-xmllang
+dir
+
+I4.1
+dir
+
+localtests
+dir
+
+I6.1
+dir
+
+horst-01
+dir
+
+I4.5
+dir
+
+I4.6
+dir
+
+rdfms-para196
+dir
+
+OWLManifest.rdf
+file
+
+
+
+
+2016-02-26T16:44:34.446629Z
+409afbf781879ce832f48416157afcc1
+2010-05-18T18:42:57.980870Z
+228
+changcs1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+442302
+
+cardinality
+dir
+
+false.rdf
+file
+
+
+
+
+2016-02-26T16:44:34.446629Z
+cfc00ca617adb48ac4da460a0da954dc
+2010-05-18T18:42:57.980870Z
+228
+changcs1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+350
+
+rdf-charmod-uris
+dir
+
+Nothing
+dir
+
+Thing
+dir
+
+Ontology
+dir
+
+allValuesFrom
+dir
+
+rdfs-no-cycles-in-subPropertyOf
+dir
+
+description-logic
+dir
+
+datatypes-intensional
+dir
+
+disjointWith
+dir
+
+rdfms-uri-substructure
+dir
+
+Manifest.rdf
+file
+
+
+
+
+2016-02-26T16:44:34.442629Z
+787931350b366404c6ba768e29eb235a
+2010-05-18T18:42:57.980870Z
+228
+changcs1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+185178
+
+equivalentProperty
+dir
+
+rdfms-reification-required
+dir
+
+testOntology.rdf
+file
+
+
+
+
+2016-02-26T16:44:34.442629Z
+bb3568a66c4ca320d9e73f50c1a3d568
+2010-05-18T18:42:57.980870Z
+228
+changcs1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6881
+
+rdfms-parseType
+dir
+

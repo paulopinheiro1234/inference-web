@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion
+END
+tP-double-decimal-fail.rq
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-double-decimal-fail.rq
+END
+tP-double-double.rq
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-double-double.rq
+END
+tP.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP.ttl
+END
+tP-double-float-fail.rq
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-double-float-fail.rq
+END
+tP-nonNegativeInteger-short.rq
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-nonNegativeInteger-short.rq
+END
+tP-unsignedLong-short.rq
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-unsignedLong-short.rq
+END
+tP-short-decimal.rq
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-short-decimal.rq
+END
+tP-unsignedByte-short.rq
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-unsignedByte-short.rq
+END
+tP-float-decimal.rq
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-float-decimal.rq
+END
+tP-short-short-fail.rq
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-short-short-fail.rq
+END
+tP-double-decimal.rq
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-double-decimal.rq
+END
+manifest.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/manifest.ttl
+END
+tP-short-double.rq
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-short-double.rq
+END
+tP-byte-short-fail.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-byte-short-fail.rq
+END
+tP-float-decimal-fail.rq
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-float-decimal-fail.rq
+END
+tP-positiveInteger-short.rq
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-positiveInteger-short.rq
+END
+true.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/true.ttl
+END
+tP-unsignedInt-short.rq
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-unsignedInt-short.rq
+END
+tP-int-short.rq
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-int-short.rq
+END
+tP-nonPositiveInteger-short.rq
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-nonPositiveInteger-short.rq
+END
+tP-unsignedShort-short.rq
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-unsignedShort-short.rq
+END
+false.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/false.ttl
+END
+tP-integer-short.rq
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-integer-short.rq
+END
+tP-decimal-decimal.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-decimal-decimal.rq
+END
+tP-long-short.rq
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-long-short.rq
+END
+tP-short-short.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-short-short.rq
+END
+tP-short-int-fail.rq
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-short-int-fail.rq
+END
+tP-byte-short.rq
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-byte-short.rq
+END
+tP-short-float.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-short-float.rq
+END
+tP-short-long-fail.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-short-long-fail.rq
+END
+tP-float-float.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-float-float.rq
+END
+tP-short-byte-fail.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-short-byte-fail.rq
+END
+tP-negativeInteger-short.rq
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-negativeInteger-short.rq
+END
+tP-double-float.rq
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/TypePromotion/tP-double-float.rq
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rdfsReasoner1
+END
+PropertyBRWRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rdfsReasoner1/PropertyBRWRule.java
+END
+BaseFRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rdfsReasoner1/BaseFRule.java
+END
+ResourceBRWRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rdfsReasoner1/ResourceBRWRule.java
+END
+RDFSInfGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rdfsReasoner1/RDFSInfGraph.java
+END
+RDFSReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rdfsReasoner1/RDFSReasoner.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rdfsReasoner1/package.html
+END
+PatternRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rdfsReasoner1/PatternRouter.java
+END
+AssertFRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rdfsReasoner1/AssertFRule.java
+END
+BackchainFRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rdfsReasoner1/BackchainFRule.java
+END
+BRWRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rdfsReasoner1/BRWRule.java
+END
+RDFSReasonerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rdfsReasoner1/RDFSReasonerFactory.java
+END

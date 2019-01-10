@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/how-to
+END
+schemagen.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/how-to/schemagen.html
+END
+filemanager.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/how-to/filemanager.html
+END
+concurrency.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/how-to/concurrency.html
+END
+event-handler.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/how-to/event-handler.html
+END
+reification.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/how-to/reification.html
+END
+assembler.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/how-to/assembler.html
+END
+dig-reasoner.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/how-to/dig-reasoner.html
+END
+typedLiterals.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/how-to/typedLiterals.html
+END
+model-factory.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/how-to/model-factory.html
+END
+rdf-frames.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/how-to/rdf-frames.html
+END
+owl-syntax-checker.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/how-to/owl-syntax-checker.html
+END

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test
+END
+TestPrefixMappingAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestPrefixMappingAssembler.java
+END
+TestUnionModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestUnionModelAssembler.java
+END
+TestFileManagerAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestFileManagerAssembler.java
+END
+AssemblerTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/AssemblerTestBase.java
+END
+TestOntModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestOntModelAssembler.java
+END
+MockTransactionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/MockTransactionModel.java
+END
+TestRuleSetAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestRuleSetAssembler.java
+END
+TestBuiltinAssemblerGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestBuiltinAssemblerGroup.java
+END
+TestModelExpansion.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestModelExpansion.java
+END
+TestRDBModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestRDBModelAssembler.java
+END
+ModelAssemblerTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/ModelAssemblerTestBase.java
+END
+TestOntModelSpecAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestOntModelSpecAssembler.java
+END
+TestModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestModelAssembler.java
+END
+TestFileModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestFileModelAssembler.java
+END
+TestAssemblerGroupTracing.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestAssemblerGroupTracing.java
+END
+TestDefaultModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestDefaultModelAssembler.java
+END
+TestReasonerFactoryAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestReasonerFactoryAssembler.java
+END
+TestImportManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestImportManager.java
+END
+TestDocumentManagerAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestDocumentManagerAssembler.java
+END
+TestContentAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestContentAssembler.java
+END
+TestLocationMapperAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestLocationMapperAssembler.java
+END
+TestModelSourceAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestModelSourceAssembler.java
+END
+TestRuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestRuleSet.java
+END
+AcceptanceTesting.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/AcceptanceTesting.java
+END
+TestMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestMode.java
+END
+TestAssemblerHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestAssemblerHelp.java
+END
+TestMemoryModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestMemoryModelAssembler.java
+END
+TestAssemblerPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestAssemblerPackage.java
+END
+TestAssemblerGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestAssemblerGroup.java
+END
+TestInfModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestInfModelAssembler.java
+END
+TestModelContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestModelContent.java
+END
+TestConnectionAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestConnectionAssembler.java
+END
+TestAssemblers.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestAssemblers.java
+END
+TestAssemblerVocabulary.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/test/TestAssemblerVocabulary.java
+END

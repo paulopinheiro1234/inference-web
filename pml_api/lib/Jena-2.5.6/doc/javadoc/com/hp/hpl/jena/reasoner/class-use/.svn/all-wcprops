@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use
+END
+Reasoner.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/Reasoner.html
+END
+BaseInfGraph.InfCapabilities.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/BaseInfGraph.InfCapabilities.html
+END
+BaseInfGraph.InfFindSafeCapabilities.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/BaseInfGraph.InfFindSafeCapabilities.html
+END
+ValidityReport.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/ValidityReport.html
+END
+BaseInfGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/BaseInfGraph.html
+END
+IllegalParameterException.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/IllegalParameterException.html
+END
+ValidityReport.Report.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/ValidityReport.Report.html
+END
+ReasonerException.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/ReasonerException.html
+END
+TriplePattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/TriplePattern.html
+END
+InfGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/InfGraph.html
+END
+StandardValidityReport.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/StandardValidityReport.html
+END
+Derivation.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/Derivation.html
+END
+FinderUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/FinderUtil.html
+END
+ReasonerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/ReasonerFactory.html
+END
+FGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/FGraph.html
+END
+ReasonerRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/ReasonerRegistry.html
+END
+Finder.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/Finder.html
+END
+BaseInfGraph.InfTransactionHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/class-use/BaseInfGraph.InfTransactionHandler.html
+END

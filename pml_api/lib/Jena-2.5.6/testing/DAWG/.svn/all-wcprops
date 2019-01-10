@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG
+END
+dawg-result-001.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/dawg-result-001.n3
+END
+dawg-result-002.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/dawg-result-002.n3
+END
+dawg-result-003.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/dawg-result-003.n3
+END
+dawg-query-001
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/dawg-query-001
+END
+dawg-query-002
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/dawg-query-002
+END
+dawg-query-003
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/dawg-query-003
+END
+manifest-dawg.n3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/manifest-dawg.n3
+END
+dawg-data-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/dawg-data-01.n3
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/237/trunk/dev_iw3/java/src/org/inference_web/app/sameas
+END
+TestSameAs.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/237/trunk/dev_iw3/java/src/org/inference_web/app/sameas/TestSameAs.java
+END
+MyDigraphArc.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/230/trunk/dev_iw3/java/src/org/inference_web/app/sameas/MyDigraphArc.java
+END
+TestSplitUri.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/230/trunk/dev_iw3/java/src/org/inference_web/app/sameas/TestSplitUri.java
+END
+TestSameasNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/230/trunk/dev_iw3/java/src/org/inference_web/app/sameas/TestSameasNetwork.java
+END
+MyDigraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/230/trunk/dev_iw3/java/src/org/inference_web/app/sameas/MyDigraph.java
+END

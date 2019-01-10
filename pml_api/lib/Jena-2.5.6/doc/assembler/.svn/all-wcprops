@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/assembler
+END
+assembler-style.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/assembler/assembler-style.css
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/assembler/index.html
+END
+inside-assemblers.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/assembler/inside-assemblers.phtml
+END
+inside-assemblers.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/assembler/inside-assemblers.html
+END
+examples.n3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/assembler/examples.n3
+END
+assembler-howto.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/assembler/assembler-howto.phtml
+END
+assembler-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/assembler/assembler-howto.html
+END
+library.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/assembler/library.js
+END

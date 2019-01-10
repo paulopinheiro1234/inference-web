@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns
+END
+result-uri-1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-uri-1.ttl
+END
+q-uri-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-uri-1.rq
+END
+data-builtin-1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/data-builtin-1.ttl
+END
+data-builtin-2.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/data-builtin-2.ttl
+END
+result-str-1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-str-1.ttl
+END
+result-str-2.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-str-2.ttl
+END
+result-str-3.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-str-3.ttl
+END
+q-str-2.rq
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-str-2.rq
+END
+result-datatype-1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-datatype-1.ttl
+END
+result-str-4.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-str-4.ttl
+END
+q-datatype-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-datatype-1.rq
+END
+q-str-4.rq
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-str-4.rq
+END
+q-datatype-3.rq
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-datatype-3.rq
+END
+q-lang-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-lang-1.rq
+END
+data-langMatches.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/data-langMatches.ttl
+END
+q-lang-3.rq
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-lang-3.rq
+END
+result-datatype-2.srx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-datatype-2.srx
+END
+result-datatype-3.srx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-datatype-3.srx
+END
+q-langMatches-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-langMatches-1.rq
+END
+q-langMatches-3.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-langMatches-3.rq
+END
+result-lang-1.srx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-lang-1.srx
+END
+result-lang-2.srx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-lang-2.srx
+END
+result-lang-3.srx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-lang-3.srx
+END
+q-str-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-str-1.rq
+END
+q-str-3.rq
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-str-3.rq
+END
+q-datatype-2.rq
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-datatype-2.rq
+END
+q-lang-2.rq
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-lang-2.rq
+END
+result-iri-1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-iri-1.ttl
+END
+q-iri-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-iri-1.rq
+END
+result-langMatches-1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-langMatches-1.ttl
+END
+result-blank-1.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-blank-1.ttl
+END
+result-langMatches-2.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-langMatches-2.ttl
+END
+q-blank-1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-blank-1.rq
+END
+q-langMatches-2.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-langMatches-2.rq
+END
+result-langMatches-3.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-langMatches-3.ttl
+END
+result-langMatches-4.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/result-langMatches-4.ttl
+END
+q-langMatches-4.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/q-langMatches-4.rq
+END
+manifest.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ExprBuiltIns/manifest.ttl
+END

@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq
+END
+test_3.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_3.result.xml
+END
+test_12.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_12.source.xml
+END
+test_22.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_22.source.xml
+END
+test_7.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_7.result.xml
+END
+test_10.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_10.query.xml
+END
+test_16.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_16.source.xml
+END
+test_12.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_12.query.xml
+END
+test_14.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_14.query.xml
+END
+test_16.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_16.query.xml
+END
+test_18.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_18.query.xml
+END
+test_12.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_12.result.xml
+END
+test_2.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_2.source.xml
+END
+test_22.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_22.result.xml
+END
+test_16.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_16.result.xml
+END
+test_6.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_6.source.xml
+END
+test_2.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_2.result.xml
+END
+test_11.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_11.source.xml
+END
+test_21.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_21.source.xml
+END
+test_6.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_6.result.xml
+END
+test_15.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_15.source.xml
+END
+test_21.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_21.query.xml
+END
+test_23.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_23.query.xml
+END
+test_19.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_19.source.xml
+END
+test_11.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_11.result.xml
+END
+test_1.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_1.source.xml
+END
+test_21.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_21.result.xml
+END
+test_15.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_15.result.xml
+END
+test_5.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_5.source.xml
+END
+test_0.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_0.query.xml
+END
+test_2.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_2.query.xml
+END
+test_19.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_19.result.xml
+END
+test_9.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_9.source.xml
+END
+test_4.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_4.query.xml
+END
+test_6.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_6.query.xml
+END
+test_8.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_8.query.xml
+END
+test_1.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_1.result.xml
+END
+test_10.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_10.source.xml
+END
+test_20.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_20.source.xml
+END
+test_5.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_5.result.xml
+END
+test_14.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_14.source.xml
+END
+test_9.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_9.result.xml
+END
+test_11.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_11.query.xml
+END
+test_18.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_18.source.xml
+END
+test_13.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_13.query.xml
+END
+test_15.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_15.query.xml
+END
+test_17.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_17.query.xml
+END
+test_10.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_10.result.xml
+END
+test_19.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_19.query.xml
+END
+test_20.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_20.result.xml
+END
+test_0.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_0.source.xml
+END
+test_14.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_14.result.xml
+END
+test_4.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_4.source.xml
+END
+test_18.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_18.result.xml
+END
+test_8.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_8.source.xml
+END
+test_0.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_0.result.xml
+END
+test_4.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_4.result.xml
+END
+test_13.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_13.source.xml
+END
+test_23.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_23.source.xml
+END
+test_8.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_8.result.xml
+END
+test_20.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_20.query.xml
+END
+test_17.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_17.source.xml
+END
+test_22.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_22.query.xml
+END
+test_13.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_13.result.xml
+END
+test_23.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_23.result.xml
+END
+test_3.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_3.source.xml
+END
+test_1.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_1.query.xml
+END
+test_17.result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_17.result.xml
+END
+test_7.source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_7.source.xml
+END
+test_3.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_3.query.xml
+END
+test_5.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_5.query.xml
+END
+test_7.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_7.query.xml
+END
+test_9.query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/dig/owl/basicq/test_9.query.xml
+END

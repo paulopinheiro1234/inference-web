@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions
+END
+UnknownStyleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/UnknownStyleException.java
+END
+NoImplementationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/NoImplementationException.java
+END
+NoSpecificTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/NoSpecificTypeException.java
+END
+NotExpectedTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/NotExpectedTypeException.java
+END
+PropertyRequiredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/PropertyRequiredException.java
+END
+TransactionAbortedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/TransactionAbortedException.java
+END
+CannotConstructException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/CannotConstructException.java
+END
+NotUniqueException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/NotUniqueException.java
+END
+ReasonerClashException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/ReasonerClashException.java
+END
+UnknownReasonerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/UnknownReasonerException.java
+END
+CannotHaveRulesException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/CannotHaveRulesException.java
+END
+AmbiguousSpecificTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/AmbiguousSpecificTypeException.java
+END
+UnknownEncodingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/UnknownEncodingException.java
+END
+CannotLoadClassException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/CannotLoadClassException.java
+END
+AssemblerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/exceptions/AssemblerException.java
+END

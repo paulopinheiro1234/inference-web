@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/unqualified
+END
+attribute.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/unqualified/attribute.rdf
+END
+property.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/unqualified/property.rdf
+END
+relative-namespace.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/unqualified/relative-namespace.rdf
+END
+typedNode.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/unqualified/typedNode.rdf
+END
+same-doc-namespace.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/unqualified/same-doc-namespace.rdf
+END

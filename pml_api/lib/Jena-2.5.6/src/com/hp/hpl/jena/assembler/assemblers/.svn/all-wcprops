@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers
+END
+DocumentManagerAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/DocumentManagerAssembler.java
+END
+UnionModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/UnionModelAssembler.java
+END
+PrefixMappingAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/PrefixMappingAssembler.java
+END
+FileManagerAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/FileManagerAssembler.java
+END
+AssemblerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/AssemblerBase.java
+END
+ContentAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/ContentAssembler.java
+END
+LocationMapperAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/LocationMapperAssembler.java
+END
+ModelSourceAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/ModelSourceAssembler.java
+END
+OntModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/OntModelAssembler.java
+END
+RuleSetAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/RuleSetAssembler.java
+END
+RDBModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/RDBModelAssembler.java
+END
+MemoryModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/MemoryModelAssembler.java
+END
+AssemblerGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/AssemblerGroup.java
+END
+OntModelSpecAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/OntModelSpecAssembler.java
+END
+InfModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/InfModelAssembler.java
+END
+ConnectionAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/ConnectionAssembler.java
+END
+FileModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/FileModelAssembler.java
+END
+ModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/ModelAssembler.java
+END
+NamedModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/NamedModelAssembler.java
+END
+DefaultModelAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/DefaultModelAssembler.java
+END
+ReasonerFactoryAssembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/assembler/assemblers/ReasonerFactoryAssembler.java
+END

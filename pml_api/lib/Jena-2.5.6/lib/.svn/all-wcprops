@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib
+END
+arq-extra.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/arq-extra.jar
+END
+json.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/json.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/xercesImpl.jar
+END
+jenatest.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/jenatest.jar
+END
+jena.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/jena.jar
+END
+wstx-asl-3.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/wstx-asl-3.0.0.jar
+END
+concurrent.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/concurrent.jar
+END
+stax-api-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/stax-api-1.0.jar
+END
+iri.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/iri.jar
+END
+arq.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/arq.jar
+END
+icu4j_3_4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/icu4j_3_4.jar
+END
+antlr-2.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/antlr-2.7.5.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/junit.jar
+END
+xml-apis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/xml-apis.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/commons-logging-1.1.1.jar
+END
+log4j-1.2.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/log4j-1.2.12.jar
+END
+lucene-core-2.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/lib/lucene-core-2.3.1.jar
+END

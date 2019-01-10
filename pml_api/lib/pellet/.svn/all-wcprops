@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/228/trunk/pml_api/lib/pellet
+END
+servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/228/trunk/pml_api/lib/pellet/servlet.jar
+END
+pellet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/228/trunk/pml_api/lib/pellet/pellet.jar
+END
+aterm-java-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/228/trunk/pml_api/lib/pellet/aterm-java-1.6.jar
+END

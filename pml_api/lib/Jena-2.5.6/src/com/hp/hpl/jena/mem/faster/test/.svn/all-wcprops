@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/faster/test
+END
+TestConcurrentModificationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/faster/test/TestConcurrentModificationException.java
+END
+TestFasterQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/faster/test/TestFasterQuery.java
+END
+TestFasterMemPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/faster/test/TestFasterMemPackage.java
+END
+TestFasterGraphMem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/mem/faster/test/TestFasterGraphMem.java
+END

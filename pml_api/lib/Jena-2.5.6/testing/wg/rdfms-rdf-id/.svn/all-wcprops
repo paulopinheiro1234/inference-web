@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id
+END
+error001-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error001-bad.nt
+END
+error002-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error002-bad.nt
+END
+error001-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error001-good.nt
+END
+error003-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error003-bad.nt
+END
+error002-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error002-good.nt
+END
+error004-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error004-bad.nt
+END
+error005-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error005-bad.nt
+END
+error003-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error003-good.nt
+END
+error004-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error004-good.nt
+END
+error006-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error006-bad.nt
+END
+error005-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error005-good.nt
+END
+error001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error001.rdf
+END
+error007-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error007-bad.nt
+END
+error006-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error006-good.nt
+END
+error002.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error002.rdf
+END
+error003.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error003.rdf
+END
+error007-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error007-good.nt
+END
+error004.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error004.rdf
+END
+error005.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error005.rdf
+END
+error006.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error006.rdf
+END
+error007.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-id/error007.rdf
+END

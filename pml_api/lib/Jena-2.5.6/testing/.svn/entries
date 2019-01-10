@@ -1,0 +1,97 @@
+10
+
+dir
+237
+http://inference-web.googlecode.com/svn/trunk/pml_api/lib/Jena-2.5.6/testing
+http://inference-web.googlecode.com/svn
+
+
+
+2010-05-18T18:42:57.980870Z
+228
+changcs1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b7b0b90b-7027-0410-bdf8-abaac9723eb6
+
+Turtle
+dir
+
+N3
+dir
+
+regression
+dir
+
+DAWG
+dir
+
+arp
+dir
+
+Update
+dir
+
+Optimizer
+dir
+
+RDQL-ARQ
+dir
+
+ARQ
+dir
+
+ResultSet
+dir
+
+modelReading
+dir
+
+xsd
+dir
+
+modelspecs
+dir
+
+LARQ
+dir
+
+assemblers
+dir
+
+DAWG-Approved
+dir
+
+reasoners
+dir
+
+RDQL
+dir
+
+cmd
+dir
+
+abbreviated
+dir
+
+ontology
+dir
+
+FileManager
+dir
+
+wg
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/v2/util/init
+END
+ToolGen.save
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/v2/util/init/ToolGen.save
+END
+template-vocabulary-jena.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/v2/util/init/template-vocabulary-jena.txt
+END
+template-vocabulary_200707.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/v2/util/init/template-vocabulary_200707.txt
+END
+template-vocabulary.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/v2/util/init/template-vocabulary.txt
+END
+ToolGenerateJavaVocabulary.java.save
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/v2/util/init/ToolGenerateJavaVocabulary.java.save
+END

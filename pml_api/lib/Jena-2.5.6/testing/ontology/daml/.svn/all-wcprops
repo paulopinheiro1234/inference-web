@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/daml
+END
+test-instance-load-classes.daml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/daml/test-instance-load-classes.daml
+END
+test-cases.daml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/daml/test-cases.daml
+END
+test-instance-load.daml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/daml/test-instance-load.daml
+END
+test-add-0.daml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/daml/test-add-0.daml
+END
+test-add-1.daml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/daml/test-add-1.daml
+END

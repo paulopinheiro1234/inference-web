@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl
+END
+inconsistent1.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl/inconsistent1.rdf
+END
+tbox.owl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl/tbox.owl
+END
+inconsistent2.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl/inconsistent2.rdf
+END
+consistentData.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl/consistentData.rdf
+END
+inconsistent3.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl/inconsistent3.rdf
+END
+inconsistent4.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl/inconsistent4.rdf
+END
+nondetbug.rules
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl/nondetbug.rules
+END
+inconsistent5.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl/inconsistent5.rdf
+END
+nondetbug.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl/nondetbug.rdf
+END
+emptyClass1.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl/emptyClass1.rdf
+END
+emptyClass2.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl/emptyClass2.rdf
+END
+inconsistent6.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl/inconsistent6.rdf
+END
+emptyClass3.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl/emptyClass3.rdf
+END
+inconsistent7.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/reasoners/owl/inconsistent7.rdf
+END

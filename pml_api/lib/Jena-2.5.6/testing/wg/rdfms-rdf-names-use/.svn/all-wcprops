@@ -1,0 +1,845 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use
+END
+warn-001.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/warn-001.nt
+END
+test-020.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-020.rdf
+END
+test-022.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-022.rdf
+END
+test-024.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-024.rdf
+END
+test-001.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-001.nt
+END
+test-026.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-026.rdf
+END
+test-021.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-021.nt
+END
+error-006-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-006-bad.nt
+END
+test-028.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-028.rdf
+END
+error-016-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-016-bad.nt
+END
+error-020.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-020.rdf
+END
+test-015.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-015.nt
+END
+test-035.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-035.nt
+END
+test-009.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-009.nt
+END
+test-029.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-029.nt
+END
+test-031.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-031.rdf
+END
+test-033.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-033.rdf
+END
+test-010.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-010.nt
+END
+test-035.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-035.rdf
+END
+error-005-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-005-bad.nt
+END
+test-030.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-030.nt
+END
+error-015-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-015-bad.nt
+END
+test-004.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-004.nt
+END
+test-037.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-037.rdf
+END
+test-024.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-024.nt
+END
+test-018.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-018.nt
+END
+warn-001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/warn-001.rdf
+END
+warn-003.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/warn-003.rdf
+END
+test-001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-001.rdf
+END
+test-003.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-003.rdf
+END
+test-005.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-005.rdf
+END
+error-001-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-001-good.nt
+END
+test-007.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-007.rdf
+END
+error-004-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-004-bad.nt
+END
+error-002-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-002-good.nt
+END
+error-014-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-014-bad.nt
+END
+error-003-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-003-good.nt
+END
+test-009.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-009.rdf
+END
+error-004-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-004-good.nt
+END
+test-013.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-013.nt
+END
+error-005-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-005-good.nt
+END
+error-001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-001.rdf
+END
+error-006-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-006-good.nt
+END
+test-033.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-033.nt
+END
+error-007-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-007-good.nt
+END
+error-003.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-003.rdf
+END
+test-007.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-007.nt
+END
+error-008-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-008-good.nt
+END
+error-009-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-009-good.nt
+END
+error-005.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-005.rdf
+END
+test-027.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-027.nt
+END
+error-007.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-007.rdf
+END
+error-009.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-009.rdf
+END
+warn-002.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/warn-002.nt
+END
+test-010.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-010.rdf
+END
+test-012.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-012.rdf
+END
+test-014.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-014.rdf
+END
+error-003-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-003-bad.nt
+END
+error-010-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-010-good.nt
+END
+test-016.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-016.rdf
+END
+error-013-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-013-bad.nt
+END
+error-011-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-011-good.nt
+END
+test-002.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-002.nt
+END
+error-012-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-012-good.nt
+END
+test-018.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-018.rdf
+END
+error-013-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-013-good.nt
+END
+test-022.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-022.nt
+END
+error-014-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-014-good.nt
+END
+error-010.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-010.rdf
+END
+error-015-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-015-good.nt
+END
+error-016-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-016-good.nt
+END
+error-012.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-012.rdf
+END
+test-016.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-016.nt
+END
+error-017-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-017-good.nt
+END
+error-018-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-018-good.nt
+END
+error-014.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-014.rdf
+END
+test-036.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-036.nt
+END
+error-019-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-019-good.nt
+END
+error-016.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-016.rdf
+END
+error-018.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-018.rdf
+END
+test-021.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-021.rdf
+END
+test-023.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-023.rdf
+END
+error-002-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-002-bad.nt
+END
+test-025.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-025.rdf
+END
+error-012-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-012-bad.nt
+END
+error-020-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-020-good.nt
+END
+test-011.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-011.nt
+END
+test-027.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-027.rdf
+END
+test-031.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-031.nt
+END
+test-005.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-005.nt
+END
+test-029.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-029.rdf
+END
+test-025.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-025.nt
+END
+test-019.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-019.nt
+END
+test-030.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-030.rdf
+END
+test-032.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-032.rdf
+END
+error-001-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-001-bad.nt
+END
+error-011-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-011-bad.nt
+END
+test-034.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-034.rdf
+END
+test-020.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-020.nt
+END
+test-036.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-036.rdf
+END
+test-014.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-014.nt
+END
+test-034.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-034.nt
+END
+error-009-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-009-bad.nt
+END
+test-008.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-008.nt
+END
+error-019-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-019-bad.nt
+END
+test-028.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-028.nt
+END
+warn-002.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/warn-002.rdf
+END
+warn-003.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/warn-003.nt
+END
+test-002.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-002.rdf
+END
+test-004.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-004.rdf
+END
+error-010-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-010-bad.nt
+END
+test-006.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-006.rdf
+END
+error-020-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-020-bad.nt
+END
+test-008.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-008.rdf
+END
+test-003.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-003.nt
+END
+test-023.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-023.nt
+END
+error-002.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-002.rdf
+END
+error-008-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-008-bad.nt
+END
+error-018-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-018-bad.nt
+END
+test-017.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-017.nt
+END
+error-004.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-004.rdf
+END
+error-006.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-006.rdf
+END
+test-037.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-037.nt
+END
+error-008.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-008.rdf
+END
+test-011.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-011.rdf
+END
+test-013.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-013.rdf
+END
+test-015.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-015.rdf
+END
+test-017.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-017.rdf
+END
+test-012.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-012.nt
+END
+test-019.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-019.rdf
+END
+error-007-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-007-bad.nt
+END
+test-032.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-032.nt
+END
+error-011.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-011.rdf
+END
+error-017-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-017-bad.nt
+END
+test-006.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-006.nt
+END
+error-013.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-013.rdf
+END
+test-026.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/test-026.nt
+END
+error-015.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-015.rdf
+END
+error-017.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-017.rdf
+END
+error-019.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdfms-rdf-names-use/error-019.rdf
+END

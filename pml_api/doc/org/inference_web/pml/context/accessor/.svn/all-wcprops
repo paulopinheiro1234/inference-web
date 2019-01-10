@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/context/accessor
+END
+Reader.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/context/accessor/Reader.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/context/accessor/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/context/accessor/package-use.html
+END
+OntologyManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/context/accessor/OntologyManager.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/context/accessor/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/context/accessor/package-tree.html
+END
+Ontology.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/context/accessor/Ontology.html
+END
+DataObjectManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/context/accessor/DataObjectManager.html
+END
+Writer.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/context/accessor/Writer.html
+END
+ToolOntologyCache.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/context/accessor/ToolOntologyCache.html
+END

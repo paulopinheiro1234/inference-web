@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/backwardCompatibleWith
+END
+Manifest001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/backwardCompatibleWith/Manifest001.rdf
+END
+Manifest002.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/backwardCompatibleWith/Manifest002.rdf
+END
+consistent001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/backwardCompatibleWith/consistent001.rdf
+END
+consistent002.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/backwardCompatibleWith/consistent002.rdf
+END

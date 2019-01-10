@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdf-charmod-uris
+END
+test002.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdf-charmod-uris/test002.rdf
+END
+error001-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdf-charmod-uris/error001-bad.nt
+END
+test001.nt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdf-charmod-uris/test001.nt
+END
+Manifest.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdf-charmod-uris/Manifest.rdf
+END
+error001-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdf-charmod-uris/error001-good.nt
+END
+test002.nt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdf-charmod-uris/test002.nt
+END
+error001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdf-charmod-uris/error001.rdf
+END
+test001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/rdf-charmod-uris/test001.rdf
+END

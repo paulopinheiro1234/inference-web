@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3
+END
+syn-bad-10.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-10.rq
+END
+bnode-dot.rq
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/bnode-dot.rq
+END
+syn-bad-20.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-20.rq
+END
+syn-bad-02.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-02.rq
+END
+bnodes-missing-pvalues-01.rq
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/bnodes-missing-pvalues-01.rq
+END
+syn-bad-12.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-12.rq
+END
+syn-bad-30.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-30.rq
+END
+syn-bad-04.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-04.rq
+END
+syn-bad-22.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-22.rq
+END
+syn-bad-14.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-14.rq
+END
+syn-bad-32.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-32.rq
+END
+syn-bad-06.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-06.rq
+END
+syn-bad-24.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-24.rq
+END
+syn-bad-34.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-34.rq
+END
+syn-bad-16.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-16.rq
+END
+syn-bad-26.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-26.rq
+END
+syn-bad-08.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-08.rq
+END
+syn-bad-36.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-36.rq
+END
+syn-bad-18.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-18.rq
+END
+syn-bad-28.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-28.rq
+END
+syn-bad-38.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-38.rq
+END
+manifest.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/manifest.ttl
+END
+syn-01.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-01.rq
+END
+syn-03.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-03.rq
+END
+syn-05.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-05.rq
+END
+syn-07.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-07.rq
+END
+syn-09.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-09.rq
+END
+empty-optional-02.rq
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/empty-optional-02.rq
+END
+lone-list.rq
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/lone-list.rq
+END
+syn-bad-01.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-01.rq
+END
+syn-bad-11.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-11.rq
+END
+syn-bad-03.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-03.rq
+END
+bnodes-missing-pvalues-02.rq
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/bnodes-missing-pvalues-02.rq
+END
+syn-bad-21.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-21.rq
+END
+syn-bad-31.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-31.rq
+END
+syn-bad-13.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-13.rq
+END
+syn-bad-23.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-23.rq
+END
+syn-bad-05.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-05.rq
+END
+lone-node.rq
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/lone-node.rq
+END
+syn-bad-15.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-15.rq
+END
+syn-bad-33.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-33.rq
+END
+syn-bad-25.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-25.rq
+END
+syn-bad-07.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-07.rq
+END
+filter-missing-parens.rq
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/filter-missing-parens.rq
+END
+syn-bad-35.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-35.rq
+END
+syn-bad-17.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-17.rq
+END
+syn-bad-27.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-27.rq
+END
+syn-bad-09.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-09.rq
+END
+syn-bad-37.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-37.rq
+END
+syn-bad-19.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-19.rq
+END
+syn-bad-29.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-29.rq
+END
+syn-bad-39.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-bad-39.rq
+END
+syn-10.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-10.rq
+END
+syn-02.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-02.rq
+END
+syn-04.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-04.rq
+END
+syn-06.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-06.rq
+END
+syn-08.rq
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/syn-08.rq
+END
+empty-optional-01.rq
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/Syntax/Syntax-SPARQL3/empty-optional-01.rq
+END

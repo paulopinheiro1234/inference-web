@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test
+END
+TestRETE.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestRETE.java
+END
+TestBugs.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestBugs.java
+END
+TestLPDerivation.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestLPDerivation.java
+END
+DebugRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/DebugRules.java
+END
+OWLUnitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/OWLUnitTest.java
+END
+TestFBRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestFBRules.java
+END
+TestRestrictionsDontNeedTyping.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestRestrictionsDontNeedTyping.java
+END
+TestBasics.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestBasics.java
+END
+TestSetRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestSetRules.java
+END
+TestTrialOWLRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestTrialOWLRules.java
+END
+DebugOWL.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/DebugOWL.java
+END
+TestRDFSRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestRDFSRules.java
+END
+TestInferenceReification.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestInferenceReification.java
+END
+TestOWLRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestOWLRules.java
+END
+TestBasicLP.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestBasicLP.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/package.html
+END
+WebOntTestHarness.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/WebOntTestHarness.java
+END
+TestOWLConsistency.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestOWLConsistency.java
+END
+OWLConsistencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/OWLConsistencyTest.java
+END
+OWLWGTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/OWLWGTester.java
+END
+TestRDFS9.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestRDFS9.java
+END
+TestGenericRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestGenericRules.java
+END
+TestGenericRuleReasonerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestGenericRuleReasonerConfig.java
+END
+TestCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestCapabilities.java
+END
+TestBackchainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestBackchainer.java
+END
+TestLPRDFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestLPRDFS.java
+END
+TestPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestPackage.java
+END
+TestConfigVocabulary.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/test/TestConfigVocabulary.java
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7
+END
+pellet-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/pellet-core.jar
+END
+pellet-modularity.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/pellet-modularity.jar
+END
+pellet-rules.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/pellet-rules.jar
+END
+pellet-owlapi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/pellet-owlapi.jar
+END
+pellet-datatypes.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/pellet-datatypes.jar
+END
+pellet-el.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/pellet-el.jar
+END
+servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/servlet.jar
+END
+pellet-dig.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/pellet-dig.jar
+END
+pellet-query.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/pellet-query.jar
+END
+aterm-java-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/aterm-java-1.6.jar
+END
+pellet-pellint.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/pellet-pellint.jar
+END
+pellet-cli.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/pellet-cli.jar
+END
+pellet-jena.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/pellet-jena.jar
+END
+pellet-test.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/pellet-test.jar
+END
+pellet-explanation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/pellet-explanation.jar
+END

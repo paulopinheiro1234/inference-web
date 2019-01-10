@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting
+END
+collection.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/collection.rdf
+END
+typedLiteral-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/typedLiteral-good.nt
+END
+typedLiteral.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/typedLiteral.rdf
+END
+base-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/base-bad.nt
+END
+propValueA-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueA-bad.nt
+END
+base-with-bad-base-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/base-with-bad-base-bad.nt
+END
+propValueC-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueC-bad.nt
+END
+base-with-bad-base-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/base-with-bad-base-good.nt
+END
+lang-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/lang-bad.nt
+END
+propValueE-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueE-bad.nt
+END
+lang-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/lang-good.nt
+END
+property-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/property-bad.nt
+END
+lang.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/lang.rdf
+END
+typedNode-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/typedNode-bad.nt
+END
+typedNode-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/typedNode-good.nt
+END
+typedNode.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/typedNode.rdf
+END
+typedLiteral-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/typedLiteral-bad.nt
+END
+ptUnknown-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/ptUnknown-bad.nt
+END
+ptUnknown-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/ptUnknown-good.nt
+END
+ptUnknown.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/ptUnknown.rdf
+END
+base-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/base-good.nt
+END
+propValueB-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueB-bad.nt
+END
+propValueA-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueA-good.nt
+END
+base.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/base.rdf
+END
+propValueD-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueD-bad.nt
+END
+propValueB-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueB-good.nt
+END
+propValueC-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueC-good.nt
+END
+propValueD-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueD-good.nt
+END
+propValueE-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueE-good.nt
+END
+propValueA.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueA.rdf
+END
+propValueB.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueB.rdf
+END
+propValueC.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueC.rdf
+END
+property-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/property-good.nt
+END
+propValueD.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueD.rdf
+END
+propValueE.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/propValueE.rdf
+END
+damlcollection-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/damlcollection-bad.nt
+END
+property.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/property.rdf
+END
+damlcollection-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/damlcollection-good.nt
+END
+collection-bad.nt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/collection-bad.nt
+END
+collection-good.nt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/collection-good.nt
+END
+damlcollection.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/arp/tainting/damlcollection.rdf
+END

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc
+END
+owl-fb-old.rules
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/owl-fb-old.rules
+END
+mssql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/mssql.sql
+END
+db-default-drivers.n3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/db-default-drivers.n3
+END
+oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/oracle.sql
+END
+derby.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/derby.sql
+END
+rdfs-fb-lp-expt.rules
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/rdfs-fb-lp-expt.rules
+END
+mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/mysql.sql
+END
+schemagen.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/schemagen.rdf
+END
+generic_generic.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/generic_generic.sql
+END
+owl-fb-mini.rules
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/owl-fb-mini.rules
+END
+location-mapping.ex
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/location-mapping.ex
+END
+rdfs-fb.rules
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/rdfs-fb.rules
+END
+daml-micro.rules
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/daml-micro.rules
+END
+rdfs-fb-tgc-simple.rules
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/rdfs-fb-tgc-simple.rules
+END
+rdfs-b-tuned.rules
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/rdfs-b-tuned.rules
+END
+dig-daml-axioms.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/dig-daml-axioms.rdf
+END
+postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/postgresql.sql
+END
+hsql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/hsql.sql
+END
+rdfs-b.rules
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/rdfs-b.rules
+END
+ont-policy.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/ont-policy.rdf
+END
+owl-b.rules
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/owl-b.rules
+END
+rdfs-fb-tgc-noresource.rules
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/rdfs-fb-tgc-noresource.rules
+END
+rdfs-noresource.rules
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/rdfs-noresource.rules
+END
+dig-owl-axioms.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/dig-owl-axioms.rdf
+END
+test.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/test.sql
+END
+owl-fb.rules
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/owl-fb.rules
+END
+ont-policy-test.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/ont-policy-test.rdf
+END
+owl-fb-micro.rules
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/owl-fb-micro.rules
+END
+rdfs.rules
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/rdfs.rules
+END
+rdfs-fb-tgc.rules
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/rdfs-fb-tgc.rules
+END
+owl.rules
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/etc/owl.rules
+END

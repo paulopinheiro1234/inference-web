@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/228/trunk/pml_api/primer/examples/proofs/tonys
+END
+goal.owl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/228/trunk/pml_api/primer/examples/proofs/tonys/goal.owl
+END
+assumption.owl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/228/trunk/pml_api/primer/examples/proofs/tonys/assumption.owl
+END
+query.owl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/primer/examples/proofs/tonys/query.owl
+END
+question.owl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/primer/examples/proofs/tonys/question.owl
+END

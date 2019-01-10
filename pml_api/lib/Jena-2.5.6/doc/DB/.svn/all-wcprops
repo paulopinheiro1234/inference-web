@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/DB
+END
+hsql-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/DB/hsql-howto.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/DB/index.html
+END
+fastpath.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/DB/fastpath.html
+END
+options.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/DB/options.html
+END
+issues.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/DB/issues.html
+END
+layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/DB/layout.html
+END
+mssql-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/DB/mssql-howto.html
+END
+portNotes.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/DB/portNotes.html
+END
+creating-db-models.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/DB/creating-db-models.html
+END
+postgresql-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/DB/postgresql-howto.html
+END
+oracle-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/DB/oracle-howto.html
+END
+derby-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/DB/derby-howto.html
+END
+mysql-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/DB/mysql-howto.html
+END

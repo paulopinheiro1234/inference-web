@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/xsdlib
+END
+xsdlib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/xsdlib/xsdlib.jar
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/xsdlib/version.txt
+END
+relaxngDatatype.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/pellet_2_rc7/xsdlib/relaxngDatatype.jar
+END

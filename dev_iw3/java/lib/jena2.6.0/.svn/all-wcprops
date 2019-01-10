@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0
+END
+junit-4.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/junit-4.5.jar
+END
+slf4j-api-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/slf4j-api-1.5.6.jar
+END
+log4j-1.2.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/log4j-1.2.12.jar
+END
+lucene-core-2.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/lucene-core-2.3.1.jar
+END
+arq-extra.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/arq-extra.jar
+END
+slf4j-log4j12-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/slf4j-log4j12-1.5.6.jar
+END
+json.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/json.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/xercesImpl.jar
+END
+jena.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/jena.jar
+END
+jenatest.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/jenatest.jar
+END
+wstx-asl-3.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/wstx-asl-3.0.0.jar
+END
+stax-api-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/stax-api-1.0.jar
+END
+icu4j_3_4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/icu4j_3_4.jar
+END
+arq.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/arq.jar
+END
+iri.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/230/trunk/dev_iw3/java/lib/jena2.6.0/iri.jar
+END

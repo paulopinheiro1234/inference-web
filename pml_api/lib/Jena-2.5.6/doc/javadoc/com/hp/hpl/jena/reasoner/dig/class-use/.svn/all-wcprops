@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use
+END
+DIGValueToNodeMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGValueToNodeMapper.html
+END
+DIGQueryIsRoleTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryIsRoleTranslator.html
+END
+DIGInfGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGInfGraph.html
+END
+DIGQueryRoleHierarchyTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryRoleHierarchyTranslator.html
+END
+DIGQueryEquivalentsTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryEquivalentsTranslator.html
+END
+TripleObjectFiller.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/TripleObjectFiller.html
+END
+DIGIteratedQueryTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGIteratedQueryTranslator.html
+END
+DIGQueryClassHierarchyTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryClassHierarchyTranslator.html
+END
+DIGQueryAllIndividualsTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryAllIndividualsTranslator.html
+END
+DIGQueryTypesTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryTypesTranslator.html
+END
+DIGReasonerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGReasonerFactory.html
+END
+DIGQueryIsEquivalentTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryIsEquivalentTranslator.html
+END
+DIGInconsistentKBException.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGInconsistentKBException.html
+END
+DIGQueryRelatedIndividualsTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryRelatedIndividualsTranslator.html
+END
+DIGQueryParentsTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryParentsTranslator.html
+END
+DIGQueryAllRolesTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryAllRolesTranslator.html
+END
+DIGQueryTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryTranslator.html
+END
+DIGQueryDisjointTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryDisjointTranslator.html
+END
+DIGQueryIsIndividualTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryIsIndividualTranslator.html
+END
+DIGQueryInstancesTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryInstancesTranslator.html
+END
+DIGErrorResponseException.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGErrorResponseException.html
+END
+TripleSubjectFiller.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/TripleSubjectFiller.html
+END
+DIGConnectionPool.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGConnectionPool.html
+END
+DIGQueryDifferentFromTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryDifferentFromTranslator.html
+END
+DIGReasonerException.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGReasonerException.html
+END
+DIGQueryRoleParentsTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryRoleParentsTranslator.html
+END
+DIGConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGConnection.html
+END
+DIGQueryRoleFillerTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryRoleFillerTranslator.html
+END
+DIGProfile.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGProfile.html
+END
+DIGQueryAncestorsTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryAncestorsTranslator.html
+END
+DIGQueryInstanceTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryInstanceTranslator.html
+END
+DIGQuerySubsumesTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQuerySubsumesTranslator.html
+END
+DIGQueryAllConceptsTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryAllConceptsTranslator.html
+END
+DIGReasoner.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGReasoner.html
+END
+DIGAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGAdapter.html
+END
+DIGWrappedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGWrappedException.html
+END
+DIGIdentifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGIdentifier.html
+END
+DIGQueryRoleFillersTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryRoleFillersTranslator.html
+END
+DIGQueryRoleAncestorsTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryRoleAncestorsTranslator.html
+END
+DIGQueryIsConceptTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/reasoner/dig/class-use/DIGQueryIsConceptTranslator.html
+END

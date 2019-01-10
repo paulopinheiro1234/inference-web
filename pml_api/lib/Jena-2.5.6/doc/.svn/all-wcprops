@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc
+END
+documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/documentation.html
+END
+resources.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/resources.html
+END
+support.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/support.html
+END
+jena2-api-changes.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/jena2-api-changes.html
+END
+jena-faq.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/jena-faq.html
+END
+license.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/license.html
+END
+reify-api.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/reify-api.html
+END
+downloads.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/downloads.html
+END
+query-performance-improvements.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/query-performance-improvements.html
+END
+enh-node-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/enh-node-howto.html
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/readme.html
+END
+tools.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/tools.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/index.html
+END
+reify-spi.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/reify-spi.html
+END
+migrate1-2.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/migrate1-2.html
+END

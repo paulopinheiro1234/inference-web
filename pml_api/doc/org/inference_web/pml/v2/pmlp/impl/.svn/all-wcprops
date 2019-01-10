@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl
+END
+IWOrganizationImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWOrganizationImpl.html
+END
+IWPrettyNameMappingImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWPrettyNameMappingImpl.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/package-summary.html
+END
+IWDocumentFragmentByOffsetImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWDocumentFragmentByOffsetImpl.html
+END
+IWPersonImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWPersonImpl.html
+END
+IWSensorImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWSensorImpl.html
+END
+IWOntologyImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWOntologyImpl.html
+END
+IWDocumentFragmentByRowColImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWDocumentFragmentByRowColImpl.html
+END
+IWIdentifiedThingImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWIdentifiedThingImpl.html
+END
+IWDocumentFragmentImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWDocumentFragmentImpl.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/package-tree.html
+END
+IWMethodRuleImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWMethodRuleImpl.html
+END
+IWPublicationImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWPublicationImpl.html
+END
+IWDeclarativeRuleImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWDeclarativeRuleImpl.html
+END
+IWDocumentImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWDocumentImpl.html
+END
+IWLearnedSourceUsageImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWLearnedSourceUsageImpl.html
+END
+IWLanguageImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWLanguageImpl.html
+END
+IWInferenceEngineImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWInferenceEngineImpl.html
+END
+IWDatasetImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWDatasetImpl.html
+END
+IWSourceUsageImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWSourceUsageImpl.html
+END
+IWInformationImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWInformationImpl.html
+END
+IWInferenceRuleImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWInferenceRuleImpl.html
+END
+IWTranslationRuleImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWTranslationRuleImpl.html
+END
+IWFormatImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWFormatImpl.html
+END
+IWSoftwareImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWSoftwareImpl.html
+END
+IWAgentImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWAgentImpl.html
+END
+IWWebServiceImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWWebServiceImpl.html
+END
+IWSourceImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWSourceImpl.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/package-frame.html
+END
+IWWebsiteImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/IWWebsiteImpl.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/doc/org/inference_web/pml/v2/pmlp/impl/package-use.html
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode
+END
+FBLPRuleReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/FBLPRuleReasoner.java
+END
+Trail.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/Trail.java
+END
+TestTrail.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/TestTrail.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/package.html
+END
+OrigFBRuleInfGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/OrigFBRuleInfGraph.java
+END
+TopGoalIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/TopGoalIterator.java
+END
+OWLRuleReasonerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/OWLRuleReasonerFactory.java
+END
+OWLExptRuleReasonerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/OWLExptRuleReasonerFactory.java
+END
+GoalState.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/GoalState.java
+END
+BasicBackwardRuleInfGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/BasicBackwardRuleInfGraph.java
+END
+OWLRuleReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/OWLRuleReasoner.java
+END
+OWLExptRuleReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/OWLExptRuleReasoner.java
+END
+GoalTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/GoalTable.java
+END
+FBLPRuleInfGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/FBLPRuleInfGraph.java
+END
+RuleInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/RuleInstance.java
+END
+BRuleEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/BRuleEngine.java
+END
+GoalResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/GoalResults.java
+END
+BasicBackwardRuleReasoner.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/BasicBackwardRuleReasoner.java
+END
+RuleState.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/src/com/hp/hpl/jena/reasoner/rulesys/impl/oldCode/RuleState.java
+END

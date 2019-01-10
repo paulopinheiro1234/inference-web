@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/context
+END
+DataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/context/DataObject.java
+END
+DataObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/context/DataObjectImpl.java
+END
+DataObjectIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/context/DataObjectIdentifier.java
+END
+ObjectContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/context/ObjectContext.java
+END

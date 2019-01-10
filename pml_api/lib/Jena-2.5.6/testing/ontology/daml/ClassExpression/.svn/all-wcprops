@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/daml/ClassExpression
+END
+test-boolean.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/daml/ClassExpression/test-boolean.rdf
+END
+test.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/daml/ClassExpression/test.rdf
+END
+test-enum.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/daml/ClassExpression/test-enum.rdf
+END
+test-restriction.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ontology/daml/ClassExpression/test-restriction.rdf
+END

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests
+END
+premisesHv1.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/premisesHv1.rdf
+END
+conclusionsRestriction001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/conclusionsRestriction001.rdf
+END
+premisesHv2.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/premisesHv2.rdf
+END
+conclusionsHv1.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/conclusionsHv1.rdf
+END
+conclusionsHv2.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/conclusionsHv2.rdf
+END
+ManifestHv1.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/ManifestHv1.rdf
+END
+ManifestHv2.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/ManifestHv2.rdf
+END
+propInheritance.n3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/propInheritance.n3
+END
+premisesSubclass001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/premisesSubclass001.rdf
+END
+premises001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/premises001.rdf
+END
+premises003.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/premises003.rdf
+END
+premises004.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/premises004.rdf
+END
+premises005.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/premises005.rdf
+END
+ManifestRestriction001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/ManifestRestriction001.rdf
+END
+premises006.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/premises006.rdf
+END
+premises007.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/premises007.rdf
+END
+premises008.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/premises008.rdf
+END
+conclusionsSubclass001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/conclusionsSubclass001.rdf
+END
+conclusions001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/conclusions001.rdf
+END
+conclusions002.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/conclusions002.rdf
+END
+conclusions003.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/conclusions003.rdf
+END
+conclusions004.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/conclusions004.rdf
+END
+conclusions005.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/conclusions005.rdf
+END
+conclusions006.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/conclusions006.rdf
+END
+conclusions007.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/conclusions007.rdf
+END
+ManifestSubclass001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/ManifestSubclass001.rdf
+END
+Manifest001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/Manifest001.rdf
+END
+conclusions008.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/conclusions008.rdf
+END
+Manifest002.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/Manifest002.rdf
+END
+Manifest003.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/Manifest003.rdf
+END
+Manifest004.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/Manifest004.rdf
+END
+Manifest005.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/Manifest005.rdf
+END
+Manifest006.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/Manifest006.rdf
+END
+Manifest007.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/Manifest007.rdf
+END
+Manifest008.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/Manifest008.rdf
+END
+premisesRestriction001.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/wg/localtests/premisesRestriction001.rdf
+END

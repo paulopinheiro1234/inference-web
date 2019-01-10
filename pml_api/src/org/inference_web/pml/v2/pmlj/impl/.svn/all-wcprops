@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/v2/pmlj/impl
+END
+IWAbstractionRuleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/v2/pmlj/impl/IWAbstractionRuleImpl.java
+END
+IWNodeSetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/v2/pmlj/impl/IWNodeSetImpl.java
+END
+IWJustificationElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/v2/pmlj/impl/IWJustificationElementImpl.java
+END
+IWQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/v2/pmlj/impl/IWQueryImpl.java
+END
+IWQuestionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/v2/pmlj/impl/IWQuestionImpl.java
+END
+IWInferenceStepImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/v2/pmlj/impl/IWInferenceStepImpl.java
+END
+IWMappingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/src/org/inference_web/pml/v2/pmlj/impl/IWMappingImpl.java
+END

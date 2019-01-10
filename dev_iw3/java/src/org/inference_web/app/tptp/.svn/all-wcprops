@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/230/trunk/dev_iw3/java/src/org/inference_web/app/tptp
+END
+AgentIwTptp.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/230/trunk/dev_iw3/java/src/org/inference_web/app/tptp/AgentIwTptp.java
+END
+TaskIwTptpStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/230/trunk/dev_iw3/java/src/org/inference_web/app/tptp/TaskIwTptpStat.java
+END
+TaskIwTptpMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/230/trunk/dev_iw3/java/src/org/inference_web/app/tptp/TaskIwTptpMapping.java
+END
+DataPmlHgTptp.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/230/trunk/dev_iw3/java/src/org/inference_web/app/tptp/DataPmlHgTptp.java
+END
+TaskIwTptpNormalize.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/230/trunk/dev_iw3/java/src/org/inference_web/app/tptp/TaskIwTptpNormalize.java
+END
+TaskIwTptpImprove.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/230/trunk/dev_iw3/java/src/org/inference_web/app/tptp/TaskIwTptpImprove.java
+END
+AgentCrawler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/230/trunk/dev_iw3/java/src/org/inference_web/app/tptp/AgentCrawler.java
+END

@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting
+END
+boolean-equiv-TRUE-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-equiv-TRUE-result.n3
+END
+boolean-equiv-FALSE.rq
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-equiv-FALSE.rq
+END
+extendedType-graph.rq
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/extendedType-graph.rq
+END
+dataPool.n3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/dataPool.n3
+END
+typePromotion-decimal-decimal-fail-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/typePromotion-decimal-decimal-fail-result.n3
+END
+boolean-logical-OR.rq
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-logical-OR.rq
+END
+boolean-false-canonical-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-false-canonical-result.n3
+END
+extendedType-literal-ne-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/extendedType-literal-ne-result.n3
+END
+extendedType-ne-pass.rq
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/extendedType-ne-pass.rq
+END
+dateTime-tz1.rq
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/dateTime-tz1.rq
+END
+boolean-0.n3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-0.n3
+END
+roman.n3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/roman.n3
+END
+extendedType-graph-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/extendedType-graph-result.n3
+END
+extendedType-ne-fail.rq
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/extendedType-ne-fail.rq
+END
+roman.rq
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/roman.rq
+END
+dateTime.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/dateTime.ttl
+END
+boolean-equiv-xsdType-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-equiv-xsdType-result.n3
+END
+boolean-logical-OR-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-logical-OR-result.n3
+END
+boolean-true-canonical.rq
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-true-canonical.rq
+END
+typePromotion-0.n3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/typePromotion-0.n3
+END
+extendedType-ne-fail-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/extendedType-ne-fail-result.n3
+END
+boolean-EBV-canonical-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-EBV-canonical-result.n3
+END
+boolean-true-canonical-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-true-canonical-result.n3
+END
+extendedType-literal-ne.rq
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/extendedType-literal-ne.rq
+END
+boolean-false-canonical.rq
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-false-canonical.rq
+END
+extendedType-0.n3
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/extendedType-0.n3
+END
+typePromotion-decimal-decimal-pass-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/typePromotion-decimal-decimal-pass-result.n3
+END
+extendedType-literal-eq.rq
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/extendedType-literal-eq.rq
+END
+boolean-equiv-xsdType.rq
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-equiv-xsdType.rq
+END
+manifest.n3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/manifest.n3
+END
+xsd-string-data.n3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/xsd-string-data.n3
+END
+dateTime-tz0.rq
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/dateTime-tz0.rq
+END
+boolean-equiv-FALSE-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-equiv-FALSE-result.n3
+END
+extendedType-literal-eq-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/extendedType-literal-eq-result.n3
+END
+extendedType-eq-pass.rq
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/extendedType-eq-pass.rq
+END
+xsd-string-gt.rq
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/xsd-string-gt.rq
+END
+boolean-EBV-canonical.rq
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-EBV-canonical.rq
+END
+xsd-string-gt-result.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/xsd-string-gt-result.rdf
+END
+xsd-string-lt.rq
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/xsd-string-lt.rq
+END
+boolean-equiv-TRUE.rq
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/boolean-equiv-TRUE.rq
+END
+extendedType-eq-pass-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/extendedType-eq-pass-result.n3
+END
+typePromotion-decimal-decimal-pass.rq
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/typePromotion-decimal-decimal-pass.rq
+END
+xsd-string-lt-result.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/xsd-string-lt-result.rdf
+END
+roman-result.n3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/roman-result.n3
+END
+typePromotion-decimal-decimal-fail.rq
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/ARQ/ValueTesting/typePromotion-decimal-decimal-fail.rq
+END

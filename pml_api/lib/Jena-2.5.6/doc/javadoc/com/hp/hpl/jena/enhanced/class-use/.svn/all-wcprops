@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/enhanced/class-use
+END
+Polymorphic.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/enhanced/class-use/Polymorphic.html
+END
+Implementation.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/enhanced/class-use/Implementation.html
+END
+BuiltinPersonalities.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/enhanced/class-use/BuiltinPersonalities.html
+END
+Personality.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/enhanced/class-use/Personality.html
+END
+UnsupportedPolymorphismException.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/enhanced/class-use/UnsupportedPolymorphismException.html
+END
+GraphPersonality.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/enhanced/class-use/GraphPersonality.html
+END
+EnhGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/enhanced/class-use/EnhGraph.html
+END
+PersonalityConfigException.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/enhanced/class-use/PersonalityConfigException.html
+END
+NodePersonality.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/enhanced/class-use/NodePersonality.html
+END
+EnhNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/enhanced/class-use/EnhNode.html
+END
+AlreadyLinkedViewException.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/doc/javadoc/com/hp/hpl/jena/enhanced/class-use/AlreadyLinkedViewException.html
+END

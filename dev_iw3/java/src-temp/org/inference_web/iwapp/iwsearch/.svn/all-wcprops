@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch
+END
+IWSEARCH.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/IWSEARCH.java
+END
+SEARCH.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/SEARCH.java
+END
+IWSearchServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/IWSearchServlet.java
+END
+LuceneTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/LuceneTest.java
+END
+ToolUrlCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/ToolUrlCollection.java
+END
+ExampleIWSearchClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/ExampleIWSearchClient.java
+END
+ARCHIVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/ARCHIVE.java
+END
+InfoIWClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/InfoIWClass.java
+END
+AbstractIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/AbstractIndexer.java
+END
+DataSearchTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/DataSearchTask.java
+END
+IWSearchSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/IWSearchSettings.java
+END
+AgentIndexerPml.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/AgentIndexerPml.java
+END
+ToolSearchRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/ToolSearchRenderer.java
+END
+AgentLucene.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/AgentLucene.java
+END
+IWSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/IWSearcher.java
+END
+AgentIndexerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/230/trunk/dev_iw3/java/src-temp/org/inference_web/iwapp/iwsearch/AgentIndexerInstance.java
+END

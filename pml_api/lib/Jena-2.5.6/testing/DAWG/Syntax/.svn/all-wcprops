@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/Syntax
+END
+syn-data-01.n3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/Syntax/syn-data-01.n3
+END
+syn-data-02.n3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/Syntax/syn-data-02.n3
+END
+result-syn-001.n3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/Syntax/result-syn-001.n3
+END
+result-syn-002.n3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/Syntax/result-syn-002.n3
+END
+result-syn-003.n3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/Syntax/result-syn-003.n3
+END
+manifest.n3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/Syntax/manifest.n3
+END
+syntax-001.rq
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/Syntax/syntax-001.rq
+END
+result-syn-004.n3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/Syntax/result-syn-004.n3
+END
+syntax-002.rq
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/Syntax/syntax-002.rq
+END
+syntax-003.rq
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/Syntax/syntax-003.rq
+END
+syntax-004.rq
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/228/trunk/pml_api/lib/Jena-2.5.6/testing/DAWG/Syntax/syntax-004.rq
+END
